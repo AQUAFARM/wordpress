@@ -1,0 +1,36 @@
+#main-nav {
+	left: auto;
+	right: 18px;
+}
+#main-nav li {
+	float: right;
+}
+#main-nav ul a, #main-nav .current_page_item ul a, #main-nav ul .current_page_item a, #main-nav .current-menu-item ul a, #main-nav ul .current-menu-item a {
+	padding: .375em .95em .375em .375em;
+}
+#main-nav ul ul {
+	left: auto;
+	right: 190px;
+}
+#social-wrap {
+	left: 27px;
+	right: auto;
+}
+.social-widget {
+	float: left;
+}
+
+.loops-wrapper.grid4 .post {
+	float: right;
+}
+.module.loops-wrapper.grid4 .post,
+.module.loops-wrapper.grid3 .post,
+.module.loops-wrapper.grid2 .post,
+.module.loops-wrapper.grid2-thumb .post {
+	float: right;
+}
+
+.commentlist .reply {
+	right: auto;
+	left: 0;
+}

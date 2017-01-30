@@ -1,0 +1,330 @@
+/**
+ * mightySlider 'Fullscreen' skin for slider purpose.
+ * http://mightyslider.com
+ *
+ * @version:  2.0.0
+ * @released: March 05, 2014
+ * 
+ * @author:   Hemn Chawroka
+ *            http://iprodev.com/
+ *
+ * How to use it?
+ * You need to add 'mightyslider_fullscreen_skin' class to the slider frame's parent element.
+ */
+.mightyslider_fullscreen_skin {
+	position: relative;
+	overflow: hidden;
+	background: #000;
+}
+
+.mightyslider_fullscreen_skin .mSFrame {
+	-webkit-perspective: 1000px;
+	perspective: 1000px;
+	-webkit-perspective-origin: 50% 50%;
+	perspective-origin: 50% 50%;
+}
+
+.mightyslider_fullscreen_skin .mSFrame .mSSlideElement {
+	-webkit-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+}
+
+.mightyslider_fullscreen_skin .mSFrame .mSSlideElement .mSSlide {
+	overflow: hidden;
+	-webkit-transform: translateZ(0);
+	transform: translateZ(0);
+}
+
+.mightyslider_fullscreen_skin.horizontal .mSFrame .mSSlideElement .mSSlide {
+	float: left;
+}
+
+/* Navigation Buttons */
+.mightyslider_fullscreen_skin .mSButtons {
+	position: absolute;
+	background: url('arrows_horizontal.png') no-repeat 50%;
+	width: 100px;
+	height: 100%;
+	margin: auto;
+	cursor: pointer;
+	opacity: 0;
+	z-index: 1000;
+	
+	-webkit-transition: opacity 0.3s;
+	transition: opacity 0.3s;
+}
+
+.mightyslider_fullscreen_skin.mSMedia .mSButtons {
+	display: none;
+}
+
+.mightyslider_fullscreen_skin .mSButtons:hover, .mightyslider_fullscreen_skin.isTouch .mSButtons {
+	opacity: 1;
+}
+
+.mightyslider_fullscreen_skin.vertical .mSButtons {
+	width: 100%;
+	height: 60px;
+	background-image: url('arrows_vertical.png');
+}
+
+.mightyslider_fullscreen_skin.horizontal .mSNext {
+	top: 0;
+	bottom: 0;
+	right: 0;
+	background-position: -100px 50%;
+}
+
+.mightyslider_fullscreen_skin.horizontal .mSPrev {
+	top: 0;
+	bottom: 0;
+	left: 0;
+	background-position: 0 50%;
+}
+
+.mightyslider_fullscreen_skin.vertical .mSNext {
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-position: 50% -120px;
+}
+
+.mightyslider_fullscreen_skin.vertical .mSPrev {
+	left: 0;
+	right: 0;
+	top: 0;
+	background-position: 50% -20px;
+}
+
+.mightyslider_fullscreen_skin .mSButtons.disabled {
+	display: none;
+}
+
+.mightyslider_fullscreen_skin .mSLoader {
+	width: 80px;
+	height: 80px;
+	background: #000 url('loader.gif') no-repeat center;
+}
+
+.mightyslider_fullscreen_skin .mSVideo,
+.mightyslider_fullscreen_skin .mSFlash {
+	width: 80px;
+	height: 80px;
+	background: #000 url('icon-play.png') no-repeat center;
+	cursor: pointer;
+	overflow: hidden;
+}
+
+/* Thumbnails */
+.mightyslider_fullscreen_skin .mSThumbnails {
+	position: absolute;
+	background: rgba(0,0,0,0.4);
+	padding: 5px;
+	z-index: 1002;
+	overflow: hidden;
+
+	-webkit-transition: all 500ms cubic-bezier(0.190, 1.000, 0.220, 1.000);
+	transition: all 500ms cubic-bezier(0.190, 1.000, 0.220, 1.000);
+}
+
+.mightyslider_fullscreen_skin.horizontal .mSThumbnails {
+	padding-top: 50px;
+	bottom: -50px;
+	left: 0;
+	right: 0;
+	height: 60px;
+}
+
+.mightyslider_fullscreen_skin .mSThumbnails:hover {
+	background: rgba(0,0,0,1);
+	padding: 5px;
+}
+
+.mightyslider_fullscreen_skin.vertical .mSThumbnails {
+	right: -135px;
+	top: 0;
+	bottom: 0;
+	width: 120px;
+}
+
+.mightyslider_fullscreen_skin.horizontal .mSThumbnails:hover {
+	bottom: 0;
+}
+
+.mightyslider_fullscreen_skin.horizontal.mSMedia .mSThumbnails {
+	display: none;
+}
+
+.mightyslider_fullscreen_skin.vertical:hover .mSThumbnails {
+	right: -120px;
+	opacity: 0.6;
+}
+
+.mightyslider_fullscreen_skin.vertical .mSThumbnails:hover {
+	right: 0;
+	padding: 5px;
+}
+
+.mightyslider_fullscreen_skin.vertical.mSMedia .mSThumbnails {
+	display: none;
+}
+
+.mightyslider_fullscreen_skin .mSThumbnails ul {
+	list-style: none;
+	display: block;
+	padding: 0;
+	margin: 0;
+	line-height: 0px;
+}
+
+.mightyslider_fullscreen_skin.horizontal .mSThumbnails ul {
+	height: 51px;
+	white-space: nowrap;
+}
+
+.mightyslider_fullscreen_skin.vertical .mSThumbnails ul {
+	width: 120px;
+}
+
+.mightyslider_fullscreen_skin .mSThumbnails ul li {
+	padding: 0;
+	opacity: 0;
+
+	-webkit-transition: opacity 500ms cubic-bezier(0.190, 1.000, 0.220, 1.000);
+	transition: opacity 500ms cubic-bezier(0.190, 1.000, 0.220, 1.000);
+}
+
+.mightyslider_fullscreen_skin .mSThumbnails:hover ul li {
+	opacity: 0.6;
+}
+
+.mightyslider_fullscreen_skin .mSThumbnails:hover ul li.active {
+	opacity: 1;
+}
+
+.mightyslider_fullscreen_skin.horizontal .mSThumbnails ul li {
+	float: left;
+	height: 50px;
+	cursor: pointer;
+	margin-right: 5px;
+}
+
+.mightyslider_fullscreen_skin.vertical .mSThumbnails ul li {
+	display: block;
+	max-width: 134px;
+}
+
+.mightyslider_fullscreen_skin .mSThumbnails ul li img {
+	padding: 0;
+	margin: 0;
+}
+
+.mightyslider_fullscreen_skin.horizontal .mSThumbnails ul li img {
+	height: 50px;
+}
+
+.mightyslider_fullscreen_skin.vertical .mSThumbnails ul li img {
+	width: 120px;
+}
+
+/* Pages */
+.mightyslider_fullscreen_skin .mSPages {
+	position: absolute;
+	padding: 10px 0;
+	margin: auto;
+	height: 30px;
+	list-style: none;
+	bottom: 10px;
+	right: 0;
+	left: 0;
+	z-index: 1003;
+	overflow: hidden;
+	text-align: center;
+	line-height: 0px;
+	pointer-events: none;
+
+	-webkit-transition: all 300ms cubic-bezier(0.190, 1.000, 0.220, 1.000);
+	transition: all 300ms cubic-bezier(0.190, 1.000, 0.220, 1.000);
+}
+
+.mightyslider_fullscreen_skin.horizontal .mSThumbnails:hover + .mSPages {
+	bottom: 60px;
+	opacity: 0;
+	z-index: 1001;
+}
+
+.mightyslider_fullscreen_skin.mSMedia .mSPages {
+	display: none;
+}
+
+.mightyslider_fullscreen_skin .mSPages li {
+	display: inline-block;
+	width: 8px;
+	height: 8px;
+	background: rgba(0,0,0,0);
+	margin: 0 10px;
+	margin-top: 2px;
+	text-indent: -9999px;
+	border: 1px solid #FFF;
+	cursor: pointer;
+	vertical-align: top;
+	pointer-events: all;
+	border-radius: 50%;
+}
+
+.mightyslider_fullscreen_skin .mSPages li.active {
+	background: #FFF;
+	width: 12px;
+	height: 12px;
+	margin: 0 10px;
+}
+
+.mightyslider_fullscreen_skin.black .mSPages li {
+	border-color: #000;
+}
+
+.mightyslider_fullscreen_skin.black .mSPages li.active {
+	background: #000;
+}
+
+.mightyslider_fullscreen_skin.isTouch .mSPages {
+	padding: 10px 0;
+	height: 18px;
+	bottom: 6px;
+}
+.mightyslider_fullscreen_skin.isTouch .mSPages li {
+	width: 14px;
+	height: 14px;
+}
+
+.mightyslider_fullscreen_skin.isTouch .mSPages li.active {
+	width: 18px;
+	height: 18px;
+}
+
+.mightyslider_fullscreen_skin.horizontal .mSThumbnails + .mSPages li {
+	pointer-events: none;
+}
+
+/* Performance for Touch Devices */
+.mightyslider_fullscreen_skin.isTouch .mSClose {
+	opacity: 1;
+}
+
+.mightyslider_fullscreen_skin.isTouch .mSButtons {
+	opacity: 1;
+}
+
+.mightyslider_fullscreen_skin.horizontal.isTouch .mSThumbnails {
+	bottom: -80px;
+	opacity: 0.6;
+}
+
+.mightyslider_fullscreen_skin.vertical.isTouch .mSThumbnails {
+	right: -120px;
+	opacity: 0.6;
+}
+
+.mightyslider_fullscreen_skin.horizontal.isTouch .mSThumbnails + .mSPages {
+	bottom: 20px;
+}

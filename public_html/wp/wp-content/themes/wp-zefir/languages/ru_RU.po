@@ -1,0 +1,2006 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zefir\n"
+"POT-Creation-Date: 2015-04-29 11:58+0400\n"
+"PO-Revision-Date: 2015-04-29 11:58+0400\n"
+"Last-Translator: \n"
+"Language-Team: Birdwp <birdwp@mail.ru>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;__ngettext:1,2;_n:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:36
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: 404.php:54 template-archives.php:61
+msgid "Last Posts"
+msgstr ""
+
+#: 404.php:65 template-archives.php:84
+msgid "Our categories"
+msgstr ""
+
+#: 404.php:73 template-archives.php:104
+msgid "Archives by Month"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:1171
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/front-end/options.php:43 admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: admin/functions/functions.interface.php:58
+msgid "Zefir Theme"
+msgstr ""
+
+#: admin/functions/functions.options.php:146
+msgid "General Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:153
+msgid "Custom Favicon"
+msgstr ""
+
+#: admin/functions/functions.options.php:154
+msgid ""
+"Upload a 16px x 16px Png/Gif image, which will be an favicon on your website."
+msgstr ""
+
+#: admin/functions/functions.options.php:162
+msgid "Layout for Home page"
+msgstr ""
+
+#: admin/functions/functions.options.php:163
+msgid "Select a Layout for Home page (default: 4 columns)"
+msgstr ""
+
+#: admin/functions/functions.options.php:172
+msgid "Layout for Category page"
+msgstr ""
+
+#: admin/functions/functions.options.php:173
+msgid "Select a Layout for Category page (default: 4 columns)"
+msgstr ""
+
+#: admin/functions/functions.options.php:182
+msgid "Layout for Tag page"
+msgstr ""
+
+#: admin/functions/functions.options.php:183
+msgid "Select a Layout for Tag page (default: 4 columns)"
+msgstr ""
+
+#: admin/functions/functions.options.php:192
+msgid "Layout for Archive and Search result page"
+msgstr ""
+
+#: admin/functions/functions.options.php:193
+msgid "Select a Layout for Archive and Search result page (default: 4 columns)"
+msgstr ""
+
+#: admin/functions/functions.options.php:202
+msgid "Sidebar position for 404 page"
+msgstr ""
+
+#: admin/functions/functions.options.php:203
+msgid "Select sidebar position for 404 page (default: Right)"
+msgstr ""
+
+#: admin/functions/functions.options.php:212
+msgid "Pagination type"
+msgstr ""
+
+#: admin/functions/functions.options.php:213
+msgid ""
+"Select Standard pagination, Next/Previous page links or Infinite scroll "
+"(default: Standard)"
+msgstr ""
+
+#: admin/functions/functions.options.php:222
+msgid "Links open in.."
+msgstr ""
+
+#: admin/functions/functions.options.php:223
+msgid ""
+"Select where open links, which lead to a single post page. Useful for "
+"infinite scrolling (default: Current tab)"
+msgstr ""
+
+#: admin/functions/functions.options.php:232
+msgid "Exclude pages from search?"
+msgstr ""
+
+#: admin/functions/functions.options.php:233
+msgid "If you want to exclude pages from search, select yes (default: Yes)."
+msgstr ""
+
+#: admin/functions/functions.options.php:236
+#: admin/functions/functions.options.php:687
+msgid "Yes"
+msgstr ""
+
+#: admin/functions/functions.options.php:237
+#: admin/functions/functions.options.php:688
+msgid "No"
+msgstr ""
+
+#: admin/functions/functions.options.php:243
+msgid "Category for Home page"
+msgstr ""
+
+#: admin/functions/functions.options.php:244
+msgid "Select a category for Home page (default: All categories)"
+msgstr ""
+
+#: admin/functions/functions.options.php:253
+msgid "Home page post Order type"
+msgstr ""
+
+#: admin/functions/functions.options.php:254
+msgid "Select post order for Home page (default: Date)"
+msgstr ""
+
+#: admin/functions/functions.options.php:263
+msgid "Tracking Code"
+msgstr ""
+
+#: admin/functions/functions.options.php:264
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme."
+msgstr ""
+
+#: admin/functions/functions.options.php:274
+msgid "Logo Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:281
+msgid "Type of Logo"
+msgstr ""
+
+#: admin/functions/functions.options.php:282
+msgid "Select type of logo (image/text)."
+msgstr ""
+
+#: admin/functions/functions.options.php:291
+msgid "Text logo Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:301
+msgid "Logo Text"
+msgstr ""
+
+#: admin/functions/functions.options.php:302
+msgid "Enter text for logo."
+msgstr ""
+
+#: admin/functions/functions.options.php:310
+msgid "Logo font"
+msgstr ""
+
+#: admin/functions/functions.options.php:311
+msgid "Choose parameters for Logo font (default google font: Raleway)"
+msgstr ""
+
+#: admin/functions/functions.options.php:323
+msgid "Logo Text-Transform"
+msgstr ""
+
+#: admin/functions/functions.options.php:324
+msgid "Choose Text-Transform for logo font (default: uppercase)"
+msgstr ""
+
+#: admin/functions/functions.options.php:333
+msgid "Logo text color"
+msgstr ""
+
+#: admin/functions/functions.options.php:334
+msgid "Choose a logo text color (default: #56686f)."
+msgstr ""
+
+#: admin/functions/functions.options.php:343
+msgid "Choose a logo hover text color (default: #2eb3e5)."
+msgstr ""
+
+#: admin/functions/functions.options.php:351
+msgid "Image logo Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:361
+msgid "Upload Logo Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:362
+msgid "Upload image for the logo or enter URL directly."
+msgstr ""
+
+#: admin/functions/functions.options.php:370
+msgid "Upload Retina Logo Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:371
+msgid ""
+"Retina logo image should be two times bigger than the custom logo (use this "
+"setting if you want to support retina devices)."
+msgstr ""
+
+#: admin/functions/functions.options.php:379
+msgid "Logo margin right"
+msgstr ""
+
+#: admin/functions/functions.options.php:380
+msgid ""
+"Select Logo image margin right (px). Min: 0, max: 140, step: 1, default "
+"value: 35"
+msgstr ""
+
+#: admin/functions/functions.options.php:393
+msgid "Header"
+msgstr ""
+
+#: admin/functions/functions.options.php:400
+msgid "Header Background color"
+msgstr ""
+
+#: admin/functions/functions.options.php:401
+msgid "Choose a background color (default: #FFFFFF)."
+msgstr ""
+
+#: admin/functions/functions.options.php:409
+msgid "Show search icon?"
+msgstr ""
+
+#: admin/functions/functions.options.php:410
+msgid "Show/Hide search icon in header or not."
+msgstr ""
+
+#: admin/functions/functions.options.php:413
+#: admin/functions/functions.options.php:573
+#: admin/functions/functions.options.php:595
+#: admin/functions/functions.options.php:971
+#: admin/functions/functions.options.php:991
+#: admin/functions/functions.options.php:1002
+#: admin/functions/functions.options.php:1013
+#: admin/functions/functions.options.php:1024
+#: admin/functions/functions.options.php:1035
+#: admin/functions/functions.options.php:1046
+#: admin/functions/functions.options.php:1106
+#: admin/functions/functions.options.php:1117
+#: admin/functions/functions.options.php:1128
+#: admin/functions/functions.options.php:1139
+#: admin/functions/functions.options.php:1150
+#: admin/functions/functions.options.php:1161
+#: admin/functions/functions.options.php:1172
+#: admin/functions/functions.options.php:1183
+#: admin/functions/functions.options.php:1194
+#: admin/functions/functions.options.php:1233
+#: admin/functions/functions.options.php:1348
+msgid "Show"
+msgstr ""
+
+#: admin/functions/functions.options.php:414
+#: admin/functions/functions.options.php:574
+#: admin/functions/functions.options.php:596
+#: admin/functions/functions.options.php:972
+#: admin/functions/functions.options.php:992
+#: admin/functions/functions.options.php:1003
+#: admin/functions/functions.options.php:1014
+#: admin/functions/functions.options.php:1025
+#: admin/functions/functions.options.php:1036
+#: admin/functions/functions.options.php:1047
+#: admin/functions/functions.options.php:1107
+#: admin/functions/functions.options.php:1118
+#: admin/functions/functions.options.php:1129
+#: admin/functions/functions.options.php:1140
+#: admin/functions/functions.options.php:1151
+#: admin/functions/functions.options.php:1162
+#: admin/functions/functions.options.php:1173
+#: admin/functions/functions.options.php:1184
+#: admin/functions/functions.options.php:1195
+#: admin/functions/functions.options.php:1234
+#: admin/functions/functions.options.php:1349
+msgid "Hide"
+msgstr ""
+
+#: admin/functions/functions.options.php:420
+msgid "Search icon color"
+msgstr ""
+
+#: admin/functions/functions.options.php:421
+msgid "Choose a Search icon color (default: #86969c)."
+msgstr ""
+
+#: admin/functions/functions.options.php:430
+msgid "Choose a Search icon hover color (default: #2eb3e5)."
+msgstr ""
+
+#: admin/functions/functions.options.php:438
+msgid "Menu Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:448
+msgid "Menu item color"
+msgstr ""
+
+#: admin/functions/functions.options.php:449
+msgid "Choose a Menu item color (default: #56686f)."
+msgstr ""
+
+#: admin/functions/functions.options.php:458
+msgid "Choose a Menu item Hover color (default: #2eb3e5)."
+msgstr ""
+
+#: admin/functions/functions.options.php:466
+msgid "Menu font"
+msgstr ""
+
+#: admin/functions/functions.options.php:467
+msgid "Choose parameters for menu font"
+msgstr ""
+
+#: admin/functions/functions.options.php:478
+msgid "Menu item Text-Transform"
+msgstr ""
+
+#: admin/functions/functions.options.php:479
+msgid "Choose Text-Transform for menu font (default: uppercase)"
+msgstr ""
+
+#: admin/functions/functions.options.php:488
+msgid "Drop-Down Menu Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:498
+msgid "Drop-down menu Background color"
+msgstr ""
+
+#: admin/functions/functions.options.php:499
+msgid "Choose a background color for drop-down menu (default: #FFFFFF)."
+msgstr ""
+
+#: admin/functions/functions.options.php:507
+msgid "Drop-down menu Border style"
+msgstr ""
+
+#: admin/functions/functions.options.php:508
+msgid "Drop-down menu border style settings (default color: #eff3f4)."
+msgstr ""
+
+#: admin/functions/functions.options.php:520
+msgid "Drop-down menu item color"
+msgstr ""
+
+#: admin/functions/functions.options.php:521
+msgid "Choose a drop-down menu item color (default: #56686f)."
+msgstr ""
+
+#: admin/functions/functions.options.php:530
+msgid "Choose a drop-down menu item Hover color (default: #2eb3e5)."
+msgstr ""
+
+#: admin/functions/functions.options.php:538
+msgid "Drop-down menu font"
+msgstr ""
+
+#: admin/functions/functions.options.php:539
+msgid "Choose parameters for drop-down menu font"
+msgstr ""
+
+#: admin/functions/functions.options.php:550
+msgid "Drop-down menu item Text-Transform"
+msgstr ""
+
+#: admin/functions/functions.options.php:551
+msgid "Choose Text-Transform for drop-down menu font (default: uppercase)"
+msgstr ""
+
+#: admin/functions/functions.options.php:562
+msgid "Homepage slider"
+msgstr ""
+
+#: admin/functions/functions.options.php:569
+msgid "Show home page slider?"
+msgstr ""
+
+#: admin/functions/functions.options.php:570
+msgid "Show/Hide Home page slider."
+msgstr ""
+
+#: admin/functions/functions.options.php:580
+msgid "Auto slideshow"
+msgstr ""
+
+#: admin/functions/functions.options.php:581
+msgid "Enable/Disable Auto slideshow."
+msgstr ""
+
+#: admin/functions/functions.options.php:584
+#: admin/functions/functions.options.php:1057
+msgid "Enable"
+msgstr ""
+
+#: admin/functions/functions.options.php:585
+#: admin/functions/functions.options.php:1058
+msgid "Disable"
+msgstr ""
+
+#: admin/functions/functions.options.php:591
+msgid "Show captions to slides?"
+msgstr ""
+
+#: admin/functions/functions.options.php:592
+msgid ""
+"Show/Hide captions to slides (title, description and Learn more button)."
+msgstr ""
+
+#: admin/functions/functions.options.php:602
+msgid "Learn More button text"
+msgstr ""
+
+#: admin/functions/functions.options.php:603
+msgid "Enter text for Learn more button."
+msgstr ""
+
+#: admin/functions/functions.options.php:611
+msgid "Slider Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:612
+msgid ""
+"Add your own images for the slider (recommended image size for the slide: "
+"1320 x 500 px; default slide description margin top: 60 px, default "
+"animation speed: 500)."
+msgstr ""
+
+#: admin/functions/functions.options.php:622
+msgid "Styling settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:629
+msgid "Theme color"
+msgstr ""
+
+#: admin/functions/functions.options.php:630
+msgid "Choose a theme color (background)."
+msgstr ""
+
+#: admin/functions/functions.options.php:639
+msgid "Choose a hover theme color (background)."
+msgstr ""
+
+#: admin/functions/functions.options.php:648
+msgid "Choose a theme text color."
+msgstr ""
+
+#: admin/functions/functions.options.php:656
+msgid "Links color"
+msgstr ""
+
+#: admin/functions/functions.options.php:657
+msgid "Choose a links color."
+msgstr ""
+
+#: admin/functions/functions.options.php:666
+msgid "Choose a hover links color."
+msgstr ""
+
+#: admin/functions/functions.options.php:674
+msgid "Body background color"
+msgstr ""
+
+#: admin/functions/functions.options.php:675
+msgid "Choose a body background color."
+msgstr ""
+
+#: admin/functions/functions.options.php:683
+msgid "Sidebar with background color?"
+msgstr ""
+
+#: admin/functions/functions.options.php:684
+msgid "Sidebar with background color or not (transparent background)."
+msgstr ""
+
+#: admin/functions/functions.options.php:694
+msgid "Type of Background"
+msgstr ""
+
+#: admin/functions/functions.options.php:695
+msgid "Select the type of background (Color/Image/Predefined Image)."
+msgstr ""
+
+#: admin/functions/functions.options.php:704
+msgid "Upload background image"
+msgstr ""
+
+#: admin/functions/functions.options.php:705
+msgid "Upload image for background or enter URL directly."
+msgstr ""
+
+#: admin/functions/functions.options.php:713
+msgid "Background image Repeat"
+msgstr ""
+
+#: admin/functions/functions.options.php:714
+msgid "Select repeat for the background image."
+msgstr ""
+
+#: admin/functions/functions.options.php:723
+msgid "Background image Attachment"
+msgstr ""
+
+#: admin/functions/functions.options.php:724
+msgid "Background image scrolls with the content of the site or will be fixed."
+msgstr ""
+
+#: admin/functions/functions.options.php:733
+msgid "Background image Position"
+msgstr ""
+
+#: admin/functions/functions.options.php:734
+msgid "Select position for the background image."
+msgstr ""
+
+#: admin/functions/functions.options.php:743
+msgid "Predefined background images"
+msgstr ""
+
+#: admin/functions/functions.options.php:744
+msgid "Select a background pattern."
+msgstr ""
+
+#: admin/functions/functions.options.php:753
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/functions/functions.options.php:754
+msgid "Insert in this block your css code."
+msgstr ""
+
+#: admin/functions/functions.options.php:764
+msgid "Font settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:771
+msgid "Choose the character sets"
+msgstr ""
+
+#: admin/functions/functions.options.php:772
+msgid ""
+"Choose the character sets you want. Remember that each font has a different "
+"character sets (default: latin)."
+msgstr ""
+
+#: admin/functions/functions.options.php:789
+msgid "Main font (body)"
+msgstr ""
+
+#: admin/functions/functions.options.php:790
+msgid ""
+"Select the parameters for the Main font. (default font: Open Sans; color: "
+"#777777)"
+msgstr ""
+
+#: admin/functions/functions.options.php:803
+msgid "Menu: Font Family"
+msgstr ""
+
+#: admin/functions/functions.options.php:804
+msgid "Select the font for the Menu (default: Open Sans)."
+msgstr ""
+
+#: admin/functions/functions.options.php:812
+msgid "Headings: Font Family"
+msgstr ""
+
+#: admin/functions/functions.options.php:813
+msgid "Select the font of all Headings (default: Raleway)."
+msgstr ""
+
+#: admin/functions/functions.options.php:821
+msgid "Quote: Font Family"
+msgstr ""
+
+#: admin/functions/functions.options.php:822
+msgid "Select the font for a Quote (default: Lora)."
+msgstr ""
+
+#: admin/functions/functions.options.php:830
+msgid "H1 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:831
+msgid "Choose parameters for H1 heading (default: 36px, normal, #445B63)"
+msgstr ""
+
+#: admin/functions/functions.options.php:843
+msgid "H2 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:844
+msgid "Choose parameters for H2 heading (default: 30px, normal, #445B63)"
+msgstr ""
+
+#: admin/functions/functions.options.php:856
+msgid "H3 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:857
+msgid "Choose parameters for H3 heading (default: 24px, normal, #445B63)"
+msgstr ""
+
+#: admin/functions/functions.options.php:869
+msgid "H4 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:870
+msgid "Choose parameters for H4 heading (default: 16px, normal, #445B63)"
+msgstr ""
+
+#: admin/functions/functions.options.php:882
+msgid "H5 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:883
+msgid "Choose parameters for H5 heading (default: 14px, normal, #445B63)"
+msgstr ""
+
+#: admin/functions/functions.options.php:895
+msgid "H6 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:896
+msgid "Choose parameters for H6 heading (default: 12px, normal, #445B63)"
+msgstr ""
+
+#: admin/functions/functions.options.php:910
+msgid "Blog settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:917
+msgid "Post title color"
+msgstr ""
+
+#: admin/functions/functions.options.php:918
+msgid "Choose a post title color."
+msgstr ""
+
+#: admin/functions/functions.options.php:927
+msgid "Choose a hover post title color."
+msgstr ""
+
+#: admin/functions/functions.options.php:935
+#: admin/functions/functions.options.php:1092
+msgid "Featured image type"
+msgstr ""
+
+#: admin/functions/functions.options.php:936
+#: admin/functions/functions.options.php:1093
+msgid "Select type of featured image (default: Cropped)."
+msgstr ""
+
+#: admin/functions/functions.options.php:945
+msgid "Use Excerpt content or More tag"
+msgstr ""
+
+#: admin/functions/functions.options.php:946
+msgid "Use Excerpt content or More tag (default: Excerpt)."
+msgstr ""
+
+#: admin/functions/functions.options.php:955
+msgid "Excerpt length"
+msgstr ""
+
+#: admin/functions/functions.options.php:956
+msgid ""
+"Set length of excerpt (chars). Min: 40, max: 800, step: 1, default value: 200"
+msgstr ""
+
+#: admin/functions/functions.options.php:967
+msgid "Show Read more link?"
+msgstr ""
+
+#: admin/functions/functions.options.php:968
+msgid "Show/Hide Read more link (only if you select 'Excerpt' content)."
+msgstr ""
+
+#: admin/functions/functions.options.php:978
+msgid "Read more text"
+msgstr ""
+
+#: admin/functions/functions.options.php:979
+msgid "Enter text for Read more link (default: read more)."
+msgstr ""
+
+#: admin/functions/functions.options.php:987
+msgid "Show blog post author?"
+msgstr ""
+
+#: admin/functions/functions.options.php:988
+msgid "Show/Hide blog post author."
+msgstr ""
+
+#: admin/functions/functions.options.php:998
+msgid "Show blog post category?"
+msgstr ""
+
+#: admin/functions/functions.options.php:999
+msgid "Show/Hide blog post category."
+msgstr ""
+
+#: admin/functions/functions.options.php:1009
+msgid "Show blog post date?"
+msgstr ""
+
+#: admin/functions/functions.options.php:1010
+msgid "Show/Hide blog post date."
+msgstr ""
+
+#: admin/functions/functions.options.php:1020
+msgid "Show blog post views?"
+msgstr ""
+
+#: admin/functions/functions.options.php:1021
+msgid "Show/Hide blog post views."
+msgstr ""
+
+#: admin/functions/functions.options.php:1031
+msgid "Show blog post comments count?"
+msgstr ""
+
+#: admin/functions/functions.options.php:1032
+msgid "Show/Hide blog post comments count."
+msgstr ""
+
+#: admin/functions/functions.options.php:1042
+msgid "Show blog post likes?"
+msgstr ""
+
+#: admin/functions/functions.options.php:1043
+msgid "Show/Hide blog post likes."
+msgstr ""
+
+#: admin/functions/functions.options.php:1053
+msgid "Social share"
+msgstr ""
+
+#: admin/functions/functions.options.php:1054
+msgid "Enable/Disable social share"
+msgstr ""
+
+#: admin/functions/functions.options.php:1066
+#: admin/functions/functions.options.php:1219
+msgid "Pages settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:1073
+msgid "Single page settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:1083
+msgid "Single post page title color"
+msgstr ""
+
+#: admin/functions/functions.options.php:1084
+msgid "Choose a single post page title color."
+msgstr ""
+
+#: admin/functions/functions.options.php:1102
+msgid "Show author?"
+msgstr ""
+
+#: admin/functions/functions.options.php:1103
+msgid "Show/Hide author."
+msgstr ""
+
+#: admin/functions/functions.options.php:1113
+msgid "Show date?"
+msgstr ""
+
+#: admin/functions/functions.options.php:1114
+msgid "Show/Hide date."
+msgstr ""
+
+#: admin/functions/functions.options.php:1124
+msgid "Show categories?"
+msgstr ""
+
+#: admin/functions/functions.options.php:1125
+msgid "Show/Hide categories."
+msgstr ""
+
+#: admin/functions/functions.options.php:1135
+msgid "Show tags?"
+msgstr ""
+
+#: admin/functions/functions.options.php:1136
+msgid "Show/Hide tags."
+msgstr ""
+
+#: admin/functions/functions.options.php:1146
+msgid "Show views count?"
+msgstr ""
+
+#: admin/functions/functions.options.php:1147
+msgid "Show/Hide views count."
+msgstr ""
+
+#: admin/functions/functions.options.php:1157
+msgid "Show likes?"
+msgstr ""
+
+#: admin/functions/functions.options.php:1158
+msgid "Show/Hide likes."
+msgstr ""
+
+#: admin/functions/functions.options.php:1168
+msgid "Show social share button?"
+msgstr ""
+
+#: admin/functions/functions.options.php:1169
+msgid "Show/Hide social share button."
+msgstr ""
+
+#: admin/functions/functions.options.php:1179
+msgid "Show about author?"
+msgstr ""
+
+#: admin/functions/functions.options.php:1180
+msgid "Show/Hide about author block."
+msgstr ""
+
+#: admin/functions/functions.options.php:1190
+msgid "Show post navigation?"
+msgstr ""
+
+#: admin/functions/functions.options.php:1191
+msgid "Show/Hide post navigation."
+msgstr ""
+
+#: admin/functions/functions.options.php:1201
+msgid "Post navigation links color"
+msgstr ""
+
+#: admin/functions/functions.options.php:1202
+msgid "Choose a post navigation links color."
+msgstr ""
+
+#: admin/functions/functions.options.php:1211
+msgid "Choose a post navigation hover links color."
+msgstr ""
+
+#: admin/functions/functions.options.php:1229
+msgid "Show category description?"
+msgstr ""
+
+#: admin/functions/functions.options.php:1230
+msgid "Show/Hide category description on the category page."
+msgstr ""
+
+#: admin/functions/functions.options.php:1240
+msgid "Page title color"
+msgstr ""
+
+#: admin/functions/functions.options.php:1241
+msgid "Choose a page title color."
+msgstr ""
+
+#: admin/functions/functions.options.php:1249
+msgid "Category description text color"
+msgstr ""
+
+#: admin/functions/functions.options.php:1250
+msgid "Choose a category description text color."
+msgstr ""
+
+#: admin/functions/functions.options.php:1260
+msgid "Footer settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:1267
+msgid "Background color"
+msgstr ""
+
+#: admin/functions/functions.options.php:1268
+msgid "Choose a background color."
+msgstr ""
+
+#: admin/functions/functions.options.php:1287
+msgid "Headings color (for widgets)"
+msgstr ""
+
+#: admin/functions/functions.options.php:1288
+msgid "Choose a headings color (for widgets)."
+msgstr ""
+
+#: admin/functions/functions.options.php:1296
+msgid "Color for Text and Links"
+msgstr ""
+
+#: admin/functions/functions.options.php:1297
+msgid "Choose a color for Text and Links."
+msgstr ""
+
+#: admin/functions/functions.options.php:1306
+msgid "Choose a Hover color for Links."
+msgstr ""
+
+#: admin/functions/functions.options.php:1314
+msgid "Background color for Forms"
+msgstr ""
+
+#: admin/functions/functions.options.php:1315
+msgid "Pick a background color for Forms (Search, Contact and Select forms)."
+msgstr ""
+
+#: admin/functions/functions.options.php:1323
+msgid "Text color for Forms"
+msgstr ""
+
+#: admin/functions/functions.options.php:1324
+msgid "Pick a text color for Forms (Search, Contact and Select forms)."
+msgstr ""
+
+#: admin/functions/functions.options.php:1332
+msgid "Copyright font"
+msgstr ""
+
+#: admin/functions/functions.options.php:1333
+msgid "Choose parameters for Copyright font (default: 13px, Normal)"
+msgstr ""
+
+#: admin/functions/functions.options.php:1344
+msgid "Show social icons?"
+msgstr ""
+
+#: admin/functions/functions.options.php:1345
+msgid "Show/Hide social icons on the footer."
+msgstr ""
+
+#: admin/functions/functions.options.php:1355
+msgid "Facebook URL"
+msgstr ""
+
+#: admin/functions/functions.options.php:1356
+msgid "Enter your Facebook URL."
+msgstr ""
+
+#: admin/functions/functions.options.php:1364
+msgid "Twitter URL"
+msgstr ""
+
+#: admin/functions/functions.options.php:1365
+msgid "Enter your Twitter URL."
+msgstr ""
+
+#: admin/functions/functions.options.php:1373
+msgid "Google+ URL"
+msgstr ""
+
+#: admin/functions/functions.options.php:1374
+msgid "Enter your Google+ URL."
+msgstr ""
+
+#: admin/functions/functions.options.php:1382
+msgid "VK URL"
+msgstr ""
+
+#: admin/functions/functions.options.php:1383
+msgid "Enter your VK URL."
+msgstr ""
+
+#: admin/functions/functions.options.php:1391
+msgid "YouTube URL"
+msgstr ""
+
+#: admin/functions/functions.options.php:1392
+msgid "Enter your YouTube URL."
+msgstr ""
+
+#: admin/functions/functions.options.php:1400
+msgid "Vimeo URL"
+msgstr ""
+
+#: admin/functions/functions.options.php:1401
+msgid "Enter your Vimeo URL."
+msgstr ""
+
+#: admin/functions/functions.options.php:1409
+msgid "Flickr URL"
+msgstr ""
+
+#: admin/functions/functions.options.php:1410
+msgid "Enter your Flickr URL."
+msgstr ""
+
+#: admin/functions/functions.options.php:1418
+msgid "Instagram URL"
+msgstr ""
+
+#: admin/functions/functions.options.php:1419
+msgid "Enter your Instagram URL."
+msgstr ""
+
+#: admin/functions/functions.options.php:1427
+msgid "Dribbble URL"
+msgstr ""
+
+#: admin/functions/functions.options.php:1428
+msgid "Enter your Dribbble URL."
+msgstr ""
+
+#: admin/functions/functions.options.php:1436
+msgid "Footer text (copyright info)"
+msgstr ""
+
+#: admin/functions/functions.options.php:1437
+msgid "Enter your footer text (copyright info)"
+msgstr ""
+
+#: admin/functions/functions.options.php:1446
+msgid "Backup Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:1451
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:1455
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+
+#: admin/functions/functions.options.php:1458
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: admin/functions/functions.options.php:1462
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\"."
+msgstr ""
+
+#: archive.php:57
+msgid "Daily Archives: "
+msgstr ""
+
+#: archive.php:59
+msgid "Monthly Archives: "
+msgstr ""
+
+#: archive.php:59
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:61
+msgid "Yearly Archives: "
+msgstr ""
+
+#: archive.php:61
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:63
+msgid "Archives"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:226
+#: assets/zefir-plugin-activation.php:86
+msgid "Install Required Plugins"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:227
+#: assets/zefir-plugin-activation.php:87
+msgid "Install Plugins"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:228
+#: assets/zefir-plugin-activation.php:88
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:229
+msgid "Something went wrong."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:230
+#: assets/zefir-plugin-activation.php:90
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/class-tgm-plugin-activation.php:231
+#: assets/zefir-plugin-activation.php:91
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/class-tgm-plugin-activation.php:232
+#: assets/zefir-plugin-activation.php:92
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/class-tgm-plugin-activation.php:233
+#: assets/zefir-plugin-activation.php:93
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/class-tgm-plugin-activation.php:234
+#: assets/zefir-plugin-activation.php:94
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/class-tgm-plugin-activation.php:235
+#: assets/zefir-plugin-activation.php:95
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/class-tgm-plugin-activation.php:236
+#: assets/zefir-plugin-activation.php:96
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/class-tgm-plugin-activation.php:237
+#: assets/zefir-plugin-activation.php:97
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/class-tgm-plugin-activation.php:238
+#: assets/zefir-plugin-activation.php:98
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/class-tgm-plugin-activation.php:239
+#: assets/zefir-plugin-activation.php:99
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/class-tgm-plugin-activation.php:240
+#: assets/zefir-plugin-activation.php:100
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:241
+msgid "Return to the dashboard"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:242
+#: assets/class-tgm-plugin-activation.php:2116
+#: assets/zefir-plugin-activation.php:101
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:243
+#: assets/class-tgm-plugin-activation.php:1778
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/class-tgm-plugin-activation.php:244
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:245
+msgid "Dismiss this notice"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:595
+#: assets/class-tgm-plugin-activation.php:2346
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1281
+#: assets/class-tgm-plugin-activation.php:1465
+msgid "Private Repository"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1285
+#: assets/class-tgm-plugin-activation.php:1469
+msgid "Pre-Packaged"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1290
+msgid "WordPress Repository"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1293
+msgid "Required"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1293
+msgid "Recommended"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1296
+msgid "Not Installed"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1299
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1490
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</"
+"a>"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1506
+msgid "Plugin"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1507
+msgid "Source"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1508
+msgid "Type"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1509
+msgid "Status"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1527
+msgid "Install"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1528
+msgid "Activate"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1639
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1755
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2099
+msgid "Install package not available."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2100
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2101
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2102
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2103
+msgid "Plugin install failed."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2104
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2115
+msgid "Plugin activation failed."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2238
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2239
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2243
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2244
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2244
+#: assets/class-tgm-plugin-activation.php:2251
+msgid "Show Details"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2244
+#: assets/class-tgm-plugin-activation.php:2251
+msgid "Hide Details"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2245
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2246
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2250
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2251
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2252
+msgid "All installations have been completed."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2253
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: assets/contact.php:14
+msgid "Error"
+msgstr ""
+
+#: assets/contact.php:22
+msgid "Please enter your name"
+msgstr ""
+
+#: assets/contact.php:29
+msgid "Please enter your e-mail"
+msgstr ""
+
+#: assets/contact.php:33
+msgid "E-mail is incorrect. Please enter correct e-mail"
+msgstr ""
+
+#: assets/contact.php:40
+msgid "Please enter message more than 15 characters"
+msgstr ""
+
+#: assets/contact.php:52
+msgid "Mail from Zefir theme"
+msgstr ""
+
+#: assets/contact.php:67 widgets/zefir_contact_form_widget.php:152
+msgid "Failed to send email"
+msgstr ""
+
+#: assets/zefir-meta-box.php:27
+msgid "Page settings"
+msgstr ""
+
+#: assets/zefir-meta-box.php:35
+msgid "Select sidebar position"
+msgstr ""
+
+#: assets/zefir-meta-box.php:46
+msgid "sidebar position"
+msgstr ""
+
+#: assets/zefir-meta-box.php:51
+msgid "Comments on the page"
+msgstr ""
+
+#: assets/zefir-meta-box.php:62
+msgid "comments"
+msgstr ""
+
+#: assets/zefir-meta-box.php:73
+msgid "Common post settings"
+msgstr ""
+
+#: assets/zefir-meta-box.php:81
+msgid "Select type of single post page"
+msgstr ""
+
+#: assets/zefir-meta-box.php:94
+msgid "single page type"
+msgstr ""
+
+#: assets/zefir-meta-box.php:99
+msgid "Post block border top color"
+msgstr ""
+
+#: assets/zefir-meta-box.php:110
+msgid "Gallery post format"
+msgstr ""
+
+#: assets/zefir-meta-box.php:117
+msgid "Add Images for Gallery"
+msgstr ""
+
+#: assets/zefir-meta-box.php:128
+msgid "Video post format"
+msgstr ""
+
+#: assets/zefir-meta-box.php:137
+msgid "Select type of Video"
+msgstr ""
+
+#: assets/zefir-meta-box.php:148
+msgid "Type of Video"
+msgstr ""
+
+#: assets/zefir-meta-box.php:153
+msgid "Video ID"
+msgstr ""
+
+#: assets/zefir-meta-box.php:155
+msgid "Video ID example: 03jJHUQovp0 (YouTube) or 69445362 (Vimeo)"
+msgstr ""
+
+#: assets/zefir-meta-box.php:163
+msgid "Type of Video Thumbnail"
+msgstr ""
+
+#: assets/zefir-meta-box.php:173
+msgid "Type of Video thumbnail"
+msgstr ""
+
+#: assets/zefir-meta-box.php:182
+msgid "Quote post format"
+msgstr ""
+
+#: assets/zefir-meta-box.php:191
+msgid "Background Color"
+msgstr ""
+
+#: assets/zefir-meta-box.php:199
+msgid "Font color"
+msgstr ""
+
+#: assets/zefir-plugin-activation.php:89
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: assets/zefir-plugin-activation.php:102
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: comments.php:26
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: comments.php:37
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:38
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:39
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:48
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:54
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+
+#: comments.php:55
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:56
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:57
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:58
+msgid "Post Comment"
+msgstr ""
+
+#: content-none.php:12
+msgid "Nothing found"
+msgstr ""
+
+#: content-none.php:13
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: footer.php:59
+msgid "Go to Facebook"
+msgstr ""
+
+#: footer.php:62
+msgid "Go to Twitter"
+msgstr ""
+
+#: footer.php:65
+msgid "Go to Google+"
+msgstr ""
+
+#: footer.php:68
+msgid "Go to VK"
+msgstr ""
+
+#: footer.php:71
+msgid "Go to YouTube"
+msgstr ""
+
+#: footer.php:74
+msgid "Go to Vimeo"
+msgstr ""
+
+#: footer.php:77
+msgid "Go to Flickr"
+msgstr ""
+
+#: footer.php:80
+msgid "Go to Instagram"
+msgstr ""
+
+#: footer.php:83
+msgid "Go to Dribbble"
+msgstr ""
+
+#: functions.php:55
+msgid "main navigation (header)"
+msgstr ""
+
+#: functions.php:372
+msgid "Loading new posts..."
+msgstr ""
+
+#: functions.php:373
+msgid "No more posts to load"
+msgstr ""
+
+#: functions.php:631
+msgid "Next page"
+msgstr ""
+
+#: functions.php:632
+msgid "Previous page"
+msgstr ""
+
+#: functions.php:679
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:679
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:694
+msgid "Post author"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: functions.php:700
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:706
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:711
+msgid "Edit"
+msgstr ""
+
+#: functions.php:712
+msgid "Reply"
+msgstr ""
+
+#: functions.php:758
+msgid "Views"
+msgstr ""
+
+#: functions.php:973
+msgid "You Like:"
+msgstr ""
+
+#: functions.php:997
+msgid "You don't like anything yet."
+msgstr ""
+
+#: functions.php:1015
+msgid "Appears on the Homepage"
+msgstr ""
+
+#: functions.php:1026
+msgid "Appears on the Homepage (second left sidebar)"
+msgstr ""
+
+#: functions.php:1037
+msgid "Appears on the Single post page"
+msgstr ""
+
+#: functions.php:1048
+msgid "Appears on the Category page"
+msgstr ""
+
+#: functions.php:1059
+msgid "Appears on the Category page (second left sidebar)"
+msgstr ""
+
+#: functions.php:1070
+msgid "Appears on the Archive, Search result and 404 page"
+msgstr ""
+
+#: functions.php:1081
+msgid ""
+"Appears on the Archive, Search result and 404 page (second left sidebar)"
+msgstr ""
+
+#: functions.php:1092
+msgid "Appears on the Tag page"
+msgstr ""
+
+#: functions.php:1103
+msgid "Appears on the Tag page (second left sidebar)"
+msgstr ""
+
+#: functions.php:1114
+msgid "Appears on the Pages"
+msgstr ""
+
+#: functions.php:1125
+msgid "Appears on the Footer"
+msgstr ""
+
+#: functions.php:1153
+msgid "Your Twitter URL"
+msgstr ""
+
+#: functions.php:1156
+msgid "Your Facebook URL"
+msgstr ""
+
+#: functions.php:1159
+msgid "Your Google+ URL"
+msgstr ""
+
+#: functions.php:1162
+msgid "Your VK URL"
+msgstr ""
+
+#: functions.php:1165
+msgid "Your YouTube URL"
+msgstr ""
+
+#: functions.php:1168
+msgid "Your Flickr URL"
+msgstr ""
+
+#: functions.php:1171
+msgid "Your Instagram URL"
+msgstr ""
+
+#: functions.php:1174
+msgid "Your Dribbble URL"
+msgstr ""
+
+#: header.php:82 searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: page.php:49 template-full-width.php:37
+msgid "Edit page"
+msgstr ""
+
+#: search.php:52
+msgid "Search Results for: "
+msgstr ""
+
+#: single.php:232 single.php:320
+msgid "Share"
+msgstr ""
+
+#: single.php:283
+msgid "Edit post"
+msgstr ""
+
+#: single.php:362
+msgid " Posts"
+msgstr ""
+
+#: single.php:367
+msgid "I on Twitter"
+msgstr ""
+
+#: single.php:370
+msgid "I on Facebook"
+msgstr ""
+
+#: single.php:373
+msgid "I on Google+"
+msgstr ""
+
+#: single.php:376
+msgid "I on VK"
+msgstr ""
+
+#: single.php:379
+msgid "I on YouTube"
+msgstr ""
+
+#: single.php:382
+msgid "I on Flickr"
+msgstr ""
+
+#: single.php:385
+msgid "I on Instagram"
+msgstr ""
+
+#: single.php:388
+msgid "I on Dribbble"
+msgstr ""
+
+#: single.php:391
+msgid "Go to My Site"
+msgstr ""
+
+#: tag.php:56
+msgid "Tag Archives: "
+msgstr ""
+
+#: template-sitemap.php:61
+msgid "Authors"
+msgstr ""
+
+#: template-sitemap.php:87
+msgid "Categories"
+msgstr ""
+
+#: template-sitemap.php:107
+msgid "Posts"
+msgstr ""
+
+#: template-sitemap.php:130
+msgid "Pages"
+msgstr ""
+
+#: widgets/zefir-popular-posts-widget.php:16
+msgid "Widget shows a list of popular posts."
+msgstr ""
+
+#: widgets/zefir-popular-posts-widget.php:17
+msgid "Zefir: Popular posts"
+msgstr ""
+
+#: widgets/zefir-popular-posts-widget.php:159
+msgid "Most Popular"
+msgstr ""
+
+#: widgets/zefir-popular-posts-widget.php:175
+#: widgets/zefir-posts-thumbs-widget.php:117
+#: widgets/zefir-recent-posts-widget.php:132
+#: widgets/zefir_contact_form_widget.php:186
+msgid "Title:"
+msgstr ""
+
+#: widgets/zefir-popular-posts-widget.php:180
+#: widgets/zefir-posts-thumbs-widget.php:122
+#: widgets/zefir-recent-posts-widget.php:137
+msgid "Number of posts:"
+msgstr ""
+
+#: widgets/zefir-popular-posts-widget.php:185
+#: widgets/zefir-posts-thumbs-widget.php:127
+#: widgets/zefir-recent-posts-widget.php:162
+msgid "Filter by Category:"
+msgstr ""
+
+#: widgets/zefir-popular-posts-widget.php:196
+msgid "Content settings"
+msgstr ""
+
+#: widgets/zefir-popular-posts-widget.php:201
+#: widgets/zefir-recent-posts-widget.php:143
+msgid "Show content"
+msgstr ""
+
+#: widgets/zefir-popular-posts-widget.php:205
+#: widgets/zefir-recent-posts-widget.php:147
+msgid "Excerpt length:"
+msgstr ""
+
+#: widgets/zefir-popular-posts-widget.php:210
+msgid "Post meta info"
+msgstr ""
+
+#: widgets/zefir-popular-posts-widget.php:215
+#: widgets/zefir-recent-posts-widget.php:153
+msgid "Show date"
+msgstr ""
+
+#: widgets/zefir-popular-posts-widget.php:220
+msgid "Show views"
+msgstr ""
+
+#: widgets/zefir-popular-posts-widget.php:225
+msgid "Show likes"
+msgstr ""
+
+#: widgets/zefir-popular-posts-widget.php:230
+#: widgets/zefir-recent-posts-widget.php:158
+msgid "Show author"
+msgstr ""
+
+#: widgets/zefir-popular-posts-widget.php:235
+msgid "Show categories"
+msgstr ""
+
+#: widgets/zefir-popular-posts-widget.php:239
+msgid "Order by:"
+msgstr ""
+
+#: widgets/zefir-posts-thumbs-widget.php:16
+msgid "Widget shows a gallery of thumbnails."
+msgstr ""
+
+#: widgets/zefir-posts-thumbs-widget.php:17
+msgid "Zefir: Thumbnails gallery"
+msgstr ""
+
+#: widgets/zefir-posts-thumbs-widget.php:108
+msgid "Posts Thumbs"
+msgstr ""
+
+#: widgets/zefir-posts-thumbs-widget.php:139
+msgid "Random order"
+msgstr ""
+
+#: widgets/zefir-recent-posts-widget.php:16
+msgid "Widget shows a list of recent posts."
+msgstr ""
+
+#: widgets/zefir-recent-posts-widget.php:17
+msgid "Zefir: Recent posts"
+msgstr ""
+
+#: widgets/zefir-recent-posts-widget.php:120
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets/zefir_contact_form_widget.php:16
+msgid "Widget shows the contact form."
+msgstr ""
+
+#: widgets/zefir_contact_form_widget.php:17
+msgid "Zefir: Contact form"
+msgstr ""
+
+#: widgets/zefir_contact_form_widget.php:37
+msgid "Name:"
+msgstr ""
+
+#: widgets/zefir_contact_form_widget.php:43
+msgid "Email:"
+msgstr ""
+
+#: widgets/zefir_contact_form_widget.php:49
+msgid "Message:"
+msgstr ""
+
+#: widgets/zefir_contact_form_widget.php:137
+msgid "Your email has been sent successfully!"
+msgstr ""
+
+#: widgets/zefir_contact_form_widget.php:179
+msgid "Contact form"
+msgstr ""
+
+#: widgets/zefir_contact_form_widget.php:190
+msgid "E-mail:"
+msgstr ""
