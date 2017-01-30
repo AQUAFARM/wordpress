@@ -1,0 +1,528 @@
+0000.000 (0) Opened log file at time: Thu, 22 Sep 2016 12:38:54 +0000 on http://travelo.tips/wp/
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.12.21.0 WP: 4.6.1 PHP: 5.6.25 (litespeed, Linux skm131.hostsila.org 3.10.0-427.18.2.lve1.4.13.el7.x86_64 #1 SMP Wed Jul 6 17:36:11 EDT 2016 x86_64) MySQL: 5.5.5 WPLANG: ru_RU Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 128M (used: 31.4M | 32.3M) multisite: Y openssl: OpenSSL 1.0.2h-fips  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.005 (0) Free space on disk containing Updraft's temporary directory: 518958.4 MB
+0000.007 (0) Tasks: Backup files: 1 (schedule: every4hours) Backup DB:  (schedule: every4hours)
+0000.007 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.015 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.016 (0) Set semaphore last lock (fd) time to 2016-09-22 12:38:54
+0000.017 (0) Semaphore lock (fd) complete
+0000.022 (0) Backup run: resumption=0, nonce=fe707abf79a3, begun at=1474547934 (0s ago), job type=backup
+0000.023 (0) Scheduling a resumption (1) after 300 seconds (1474548234) in case this run gets aborted
+0000.032 (0) Checking if we have a zip executable available
+0000.033 (0) Creation of backups of directories: beginning
+0000.036 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.070 (0) Total entities for the zip file: 203 directories, 1285 files (0 skipped as non-modified), 14.2 MB
+0000.076 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.082 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.088 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.095 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.103 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.104 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2 MB, 1285 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0000.266 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip.tmp: 600 files added (on-disk size: 778.6 KB)
+0000.275 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip.tmp: 700 files added (on-disk size: 778.6 KB)
+0000.284 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip.tmp: 800 files added (on-disk size: 778.6 KB)
+0000.294 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip.tmp: 900 files added (on-disk size: 778.6 KB)
+0000.304 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip.tmp: 1000 files added (on-disk size: 778.6 KB)
+0000.305 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.8 MB, 1285 files batched, 501 (1002) added so far); re-opening (prior size: 778.6 KB)
+0000.751 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip.tmp: 1100 files added (on-disk size: 2178.3 KB)
+0000.766 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip.tmp: 1200 files added (on-disk size: 2178.3 KB)
+0001.366 (0) Created plugins zip (0) - 3764.3 KB in 1.3 s (2831.5 KB/s) (SHA1 checksum: fa4c84a3ee6765860ad149b208071cb4a8471b27)
+0001.370 (0) Beginning creation of dump of themes (split every: 400 MB)
+0001.590 (0) Total entities for the zip file: 196 directories, 1566 files (0 skipped as non-modified), 31.5 MB
+0001.600 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.608 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.617 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.627 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.639 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.640 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.3 MB, 1566 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0002.737 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip.tmp: 600 files added (on-disk size: 4528.3 KB)
+0002.746 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip.tmp: 700 files added (on-disk size: 4528.3 KB)
+0002.754 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip.tmp: 800 files added (on-disk size: 4528.3 KB)
+0002.762 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip.tmp: 900 files added (on-disk size: 4528.3 KB)
+0002.771 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip.tmp: 1000 files added (on-disk size: 4528.3 KB)
+0002.772 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.1 MB, 1566 files batched, 501 (1002) added so far); re-opening (prior size: 4528.3 KB)
+0005.793 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip.tmp: 1100 files added (on-disk size: 15350.9 KB)
+0006.644 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip.tmp: 1200 files added (on-disk size: 15350.9 KB)
+0006.658 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip.tmp: 1300 files added (on-disk size: 15350.9 KB)
+0006.671 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip.tmp: 1400 files added (on-disk size: 15350.9 KB)
+0006.685 (0) Zip: backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip.tmp: 1500 files added (on-disk size: 15350.9 KB)
+0006.686 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8 MB, 1566 files batched, 501 (1503) added so far); re-opening (prior size: 15350.9 KB)
+0013.242 (0) Created themes zip (0) - 21318.2 KB in 11.9 s (1795.9 KB/s) (SHA1 checksum: 8c56fece7eaddf9bc897f5a0f1cead600e293659)
+0013.247 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0013.248 (0) Looking for candidates to back up in: /home/mjuice/public_html/wp/wp-content/uploads
+0013.250 (0) finding files: themify-css: adding to list (1)
+0013.251 (0) finding files: themify-builder: adding to list (2)
+0013.252 (0) finding files: 2016: adding to list (3)
+0013.253 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0013.265 (0) Total entities for the zip file: 6 directories, 77 files (0 skipped as non-modified), 4.7 MB
+0014.341 (0) Created uploads zip (0) - 4423.2 KB in 1.1 s (4069.7 KB/s) (SHA1 checksum: 0d7785699537bd8072a955d691e8c54cadb9bf29)
+0014.346 (0) Beginning backup of other directories found in the content directory (index: 0)
+0014.353 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0014.354 (0) Looking for candidates to back up in: /home/mjuice/public_html/wp/wp-content
+0014.355 (0) finding files: updraft: skipping: this is the updraft directory
+0014.356 (0) finding files: themes: skipping: this is the themes directory
+0014.357 (0) finding files: uploads: skipping: this is the uploads directory
+0014.359 (0) finding files: languages: adding to list (1)
+0014.360 (0) finding files: index.php: adding to list (2)
+0014.361 (0) finding files: plugins: skipping: this is the plugins directory
+0014.362 (0) finding files: upgrade: skipping: excluded by options
+0014.366 (0) Total entities for the zip file: 3 directories, 17 files (0 skipped as non-modified), 1.8 MB
+0014.785 (0) Created others zip (0) - 494.4 KB in 0.4 s (1175.5 KB/s) (SHA1 checksum: 7b52bbadf29ffa2f0a58ed08e37e02202f88d222)
+0014.792 (0) Saving backup status to database (elements: 8)
+0014.796 (0) Beginning creation of database dump (WordPress DB)
+0014.803 (0) Table wpcr_options: Total expected rows (approximate): 207
+0015.219 (0) Table wpcr_options: Total rows added: 210 in 0.41 seconds
+0015.222 (0) Table wpcr_options: finishing file (backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_options.table.gz - 164.3 KB)
+0015.228 (0) Table wpcr_site: Total expected rows (approximate): 0
+0015.232 (0) Table wpcr_site: Total rows added: 1 in 0.00 seconds
+0015.233 (0) Table wpcr_site: finishing file (backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_site.table.gz - 0.4 KB)
+0015.239 (0) Table wpcr_blogs: Total expected rows (approximate): 1
+0015.242 (0) Table wpcr_blogs: Total rows added: 1 in 0.00 seconds
+0015.244 (0) Table wpcr_blogs: finishing file (backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_blogs.table.gz - 0.5 KB)
+0015.249 (0) Table wpcr_users: Total expected rows (approximate): 0
+0015.253 (0) Table wpcr_users: Total rows added: 1 in 0.00 seconds
+0015.255 (0) Table wpcr_users: finishing file (backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_users.table.gz - 0.6 KB)
+0015.260 (0) Table wpcr_usermeta: Total expected rows (approximate): 27
+0015.265 (0) Table wpcr_usermeta: Total rows added: 33 in 0.00 seconds
+0015.266 (0) Table wpcr_usermeta: finishing file (backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_usermeta.table.gz - 1.5 KB)
+0015.271 (0) Table wpcr_blog_versions: Total expected rows (approximate): 0
+0015.275 (0) Table wpcr_blog_versions: Total rows added: 0 in 0.00 seconds
+0015.276 (0) Table wpcr_blog_versions: finishing file (backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_blog_versions.table.gz - 0.3 KB)
+0015.281 (0) Table wpcr_commentmeta: Total expected rows (approximate): 0
+0015.284 (0) Table wpcr_commentmeta: Total rows added: 0 in 0.00 seconds
+0015.286 (0) Table wpcr_commentmeta: finishing file (backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_commentmeta.table.gz - 0.4 KB)
+0015.291 (0) Table wpcr_comments: Total expected rows (approximate): 0
+0015.295 (0) Table wpcr_comments: Total rows added: 2 in 0.00 seconds
+0015.296 (0) Table wpcr_comments: finishing file (backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_comments.table.gz - 0.9 KB)
+0015.301 (0) Table wpcr_links: Total expected rows (approximate): 0
+0015.305 (0) Table wpcr_links: Total rows added: 0 in 0.00 seconds
+0015.306 (0) Table wpcr_links: finishing file (backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_links.table.gz - 0.4 KB)
+0015.311 (0) Table wpcr_postmeta: Total expected rows (approximate): 117
+0015.319 (0) Table wpcr_postmeta: Total rows added: 124 in 0.01 seconds
+0015.321 (0) Table wpcr_postmeta: finishing file (backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_postmeta.table.gz - 3.1 KB)
+0015.327 (0) Table wpcr_posts: Total expected rows (approximate): 35
+0015.354 (0) Table wpcr_posts: Total rows added: 38 in 0.03 seconds
+0015.356 (0) Table wpcr_posts: finishing file (backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_posts.table.gz - 34.4 KB)
+0015.362 (0) Table wpcr_registration_log: Total expected rows (approximate): 0
+0015.367 (0) Table wpcr_registration_log: Total rows added: 1 in 0.00 seconds
+0015.369 (0) Table wpcr_registration_log: finishing file (backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_registration_log.table.gz - 0.4 KB)
+0015.374 (0) Table wpcr_signups: Total expected rows (approximate): 0
+0015.378 (0) Table wpcr_signups: Total rows added: 0 in 0.00 seconds
+0015.380 (0) Table wpcr_signups: finishing file (backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_signups.table.gz - 0.5 KB)
+0015.386 (0) Table wpcr_sitemeta: Total expected rows (approximate): 53
+0015.396 (0) Table wpcr_sitemeta: Total rows added: 52 in 0.01 seconds
+0015.398 (0) Table wpcr_sitemeta: finishing file (backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_sitemeta.table.gz - 12.7 KB)
+0015.405 (0) Table wpcr_term_relationships: Total expected rows (approximate): 14
+0015.409 (0) Table wpcr_term_relationships: Total rows added: 15 in 0.00 seconds
+0015.412 (0) Table wpcr_term_relationships: finishing file (backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_term_relationships.table.gz - 0.4 KB)
+0015.418 (0) Table wpcr_term_taxonomy: Total expected rows (approximate): 36
+0015.423 (0) Table wpcr_term_taxonomy: Total rows added: 38 in 0.00 seconds
+0015.425 (0) Table wpcr_term_taxonomy: finishing file (backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_term_taxonomy.table.gz - 1.2 KB)
+0015.430 (0) Table wpcr_termmeta: Total expected rows (approximate): 0
+0015.434 (0) Table wpcr_termmeta: Total rows added: 0 in 0.00 seconds
+0015.436 (0) Table wpcr_termmeta: finishing file (backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_termmeta.table.gz - 0.4 KB)
+0015.442 (0) Table wpcr_terms: Total expected rows (approximate): 38
+0015.447 (0) Table wpcr_terms: Total rows added: 38 in 0.00 seconds
+0015.449 (0) Table wpcr_terms: finishing file (backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_terms.table.gz - 1.1 KB)
+0015.455 (0) Table wpcr_loginizer_logs: Total expected rows (approximate): 1
+0015.460 (0) Table wpcr_loginizer_logs: Total rows added: 1 in 0.00 seconds
+0015.462 (0) Table wpcr_loginizer_logs: finishing file (backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_loginizer_logs.table.gz - 0.3 KB)
+0015.467 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_options.table.gz (1/19): adding to final database dump
+0015.526 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_site.table.gz (2/19): adding to final database dump
+0015.528 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_blogs.table.gz (3/19): adding to final database dump
+0015.529 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_users.table.gz (4/19): adding to final database dump
+0015.531 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_usermeta.table.gz (5/19): adding to final database dump
+0015.532 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_blog_versions.table.gz (6/19): adding to final database dump
+0015.534 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_commentmeta.table.gz (7/19): adding to final database dump
+0015.536 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_comments.table.gz (8/19): adding to final database dump
+0015.537 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_links.table.gz (9/19): adding to final database dump
+0015.539 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_postmeta.table.gz (10/19): adding to final database dump
+0015.542 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_posts.table.gz (11/19): adding to final database dump
+0015.560 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_registration_log.table.gz (12/19): adding to final database dump
+0015.561 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_signups.table.gz (13/19): adding to final database dump
+0015.563 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_sitemeta.table.gz (14/19): adding to final database dump
+0015.567 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_term_relationships.table.gz (15/19): adding to final database dump
+0015.568 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_term_taxonomy.table.gz (16/19): adding to final database dump
+0015.570 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_termmeta.table.gz (17/19): adding to final database dump
+0015.571 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_terms.table.gz (18/19): adding to final database dump
+0015.573 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db-table-wpcr_loginizer_logs.table.gz (19/19): adding to final database dump
+0015.574 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db.gz: finished writing out complete database file (192 KB)
+0015.580 (0) Total database tables backed up: 19 (backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db.gz, size: 224422, checksum (SHA1): 85cefec7377243536d42b06758d5212058bc4982)
+0015.589 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0015.590 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0015.591 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0015.593 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-others.zip: others: This file has not yet been successfully uploaded: will queue
+0015.594 (0) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db.gz: db: This file has not yet been successfully uploaded: will queue
+0015.595 (0) Saving backup history. Total backup size: 29.5 MB
+0015.598 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0015.602 (0) Cloud backup selection (1/1): googledrive (last)
+0015.603 (0) Beginning dispatch of backup to remote (googledrive)
+0015.605 (0) Google Drive: this account is not authorised
+0015.606 (0) An error condition has occurred for the first time during this job
+0015.609 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0015.611 (0) Number of backup sets in history: 1; groups (db): 1
+0015.612 (0) Examining (for databases) backup set with group_id=0, nonce=fe707abf79a3, datestamp=1474547934 (Sep 22 2016 12:38:54)
+0015.613 (0) This backup set is the backup set just made, so will not be deleted.
+0015.615 (0) Number of backup sets in history: 1; groups (files): 1
+0015.616 (0) Examining (for files) backup set with nonce=fe707abf79a3, datestamp=1474547934 (Sep 22 2016 12:38:54)
+0015.617 (0) This backup set is the backup set just made, so will not be deleted.
+0015.619 (0) This backup set is the backup set just made, so will not be deleted.
+0015.619 (0) This backup set is the backup set just made, so will not be deleted.
+0015.619 (0) This backup set is the backup set just made, so will not be deleted.
+0015.619 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0015.620 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0015.624 (0) Resume backup (fe707abf79a3, 0): finish run
+0015.628 (0) Decremented the semaphore (fd) by 1
+0015.630 (0) Semaphore (fd) unlocked
+0015.631 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0015.635 (0) Rescheduling resumption 1: moving to 120 seconds from now (1474548069)
+0015.638 (0) The backup has not finished; a resumption is scheduled
+0161.709 (1) Opened log file at time: Thu, 22 Sep 2016 12:41:36 +0000 on http://travelo.tips/wp/
+0161.710 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.12.21.0 WP: 4.6.1 PHP: 5.6.25 (litespeed, Linux skm131.hostsila.org 3.10.0-427.18.2.lve1.4.13.el7.x86_64 #1 SMP Wed Jul 6 17:36:11 EDT 2016 x86_64) MySQL: 5.5.5 WPLANG: ru_RU Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 128M (used: 31.4M | 32.5M) multisite: Y openssl: OpenSSL 1.0.2h-fips  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0161.711 (1) Free space on disk containing Updraft's temporary directory: 518926 MB
+0161.714 (1) Backup run: resumption=1, nonce=fe707abf79a3, begun at=1474547934 (162s ago), job type=backup, previous check-in=15.5s
+0161.716 (1) Scheduling a resumption (2) after 300 seconds (1474548396) in case this run gets aborted
+0161.727 (1) Checking if we have a zip executable available
+0161.728 (1) Creation of backups of directories: already finished
+0161.729 (1) Saving backup status to database (elements: 8)
+0161.732 (1) Database dump (WordPress DB): Creation was completed already
+0161.736 (1) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0161.737 (1) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0161.738 (1) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0161.739 (1) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-others.zip: others: This file has not yet been successfully uploaded: will queue
+0161.739 (1) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db.gz: db: This file has not yet been successfully uploaded: will queue
+0161.740 (1) Saving backup history. Total backup size: 29.5 MB
+0161.742 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+0161.744 (1) Cloud backup selection (1/1): googledrive (last)
+0161.747 (1) Beginning dispatch of backup to remote (googledrive)
+0161.748 (1) Google Drive: this account is not authorised
+0161.749 (1) An error condition has occurred for the first time during this job
+0161.750 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0161.752 (1) Number of backup sets in history: 1; groups (db): 1
+0161.753 (1) Examining (for databases) backup set with group_id=0, nonce=fe707abf79a3, datestamp=1474547934 (Sep 22 2016 12:38:54)
+0161.753 (1) This backup set is the backup set just made, so will not be deleted.
+0161.754 (1) Number of backup sets in history: 1; groups (files): 1
+0161.755 (1) Examining (for files) backup set with nonce=fe707abf79a3, datestamp=1474547934 (Sep 22 2016 12:38:54)
+0161.756 (1) This backup set is the backup set just made, so will not be deleted.
+0161.757 (1) This backup set is the backup set just made, so will not be deleted.
+0161.757 (1) This backup set is the backup set just made, so will not be deleted.
+0161.757 (1) This backup set is the backup set just made, so will not be deleted.
+0161.758 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0161.759 (1) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0161.762 (1) Resume backup (fe707abf79a3, 1): finish run
+0161.764 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0161.767 (1) The backup has not finished; a resumption is scheduled
+0467.516 (2) Opened log file at time: Thu, 22 Sep 2016 12:46:41 +0000 on http://travelo.tips/wp/
+0467.518 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.12.21.0 WP: 4.6.1 PHP: 5.6.25 (litespeed, Linux skm131.hostsila.org 3.10.0-427.18.2.lve1.4.13.el7.x86_64 #1 SMP Wed Jul 6 17:36:11 EDT 2016 x86_64) MySQL: 5.5.5 WPLANG: ru_RU Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 128M (used: 31.4M | 32.3M) multisite: Y openssl: OpenSSL 1.0.2h-fips  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0467.519 (2) Free space on disk containing Updraft's temporary directory: 518627.4 MB
+0467.523 (2) Backup run: resumption=2, nonce=fe707abf79a3, begun at=1474547934 (467s ago), job type=backup
+0467.525 (2) Scheduling a resumption (3) after 300 seconds (1474548701) in case this run gets aborted
+0467.535 (2) Checking if we have a zip executable available
+0467.536 (2) Creation of backups of directories: already finished
+0467.537 (2) Saving backup status to database (elements: 8)
+0467.539 (2) Database dump (WordPress DB): Creation was completed already
+0467.544 (2) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0467.545 (2) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0467.546 (2) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0467.547 (2) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-others.zip: others: This file has not yet been successfully uploaded: will queue
+0467.548 (2) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db.gz: db: This file has not yet been successfully uploaded: will queue
+0467.548 (2) Saving backup history. Total backup size: 29.5 MB
+0467.551 (2) Requesting upload of the files that have not yet been successfully uploaded (5)
+0467.552 (2) Cloud backup selection (1/1): googledrive (last)
+0467.556 (2) Beginning dispatch of backup to remote (googledrive)
+0467.556 (2) Google Drive: this account is not authorised
+0467.557 (2) An error condition has occurred for the first time during this job
+0467.559 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0467.560 (2) Number of backup sets in history: 2; groups (db): 1
+0467.561 (2) Examining (for databases) backup set with group_id=0, nonce=60b820025980, datestamp=1474548240 (Sep 22 2016 12:44:00)
+0467.562 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0467.563 (2) Examining (for databases) backup set with group_id=0, nonce=fe707abf79a3, datestamp=1474547934 (Sep 22 2016 12:38:54)
+0467.563 (2) This backup set is the backup set just made, so will not be deleted.
+0467.564 (2) Number of backup sets in history: 2; groups (files): 1
+0467.565 (2) Examining (for files) backup set with nonce=60b820025980, datestamp=1474548240 (Sep 22 2016 12:44:00)
+0467.566 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0467.566 (2) Examining (for files) backup set with nonce=fe707abf79a3, datestamp=1474547934 (Sep 22 2016 12:38:54)
+0467.567 (2) This backup set is the backup set just made, so will not be deleted.
+0467.568 (2) This backup set is the backup set just made, so will not be deleted.
+0467.568 (2) This backup set is the backup set just made, so will not be deleted.
+0467.568 (2) This backup set is the backup set just made, so will not be deleted.
+0467.569 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0467.569 (2) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0467.571 (2) Resume backup (fe707abf79a3, 2): finish run
+0467.573 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0467.575 (2) The backup has not finished; a resumption is scheduled
+0768.721 (3) Opened log file at time: Thu, 22 Sep 2016 12:51:43 +0000 on http://travelo.tips/wp/
+0768.723 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.12.21.0 WP: 4.6.1 PHP: 5.6.25 (litespeed, Linux skm131.hostsila.org 3.10.0-427.18.2.lve1.4.13.el7.x86_64 #1 SMP Wed Jul 6 17:36:11 EDT 2016 x86_64) MySQL: 5.5.5 WPLANG: ru_RU Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 128M (used: 31.4M | 32.3M) multisite: Y openssl: OpenSSL 1.0.2h-fips  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0768.724 (3) Free space on disk containing Updraft's temporary directory: 518618.4 MB
+0768.728 (3) Backup run: resumption=3, nonce=fe707abf79a3, begun at=1474547934 (769s ago), job type=backup
+0768.730 (3) Scheduling a resumption (4) after 300 seconds (1474549003) in case this run gets aborted
+0768.740 (3) Checking if we have a zip executable available
+0768.741 (3) Creation of backups of directories: already finished
+0768.741 (3) Saving backup status to database (elements: 8)
+0768.744 (3) Database dump (WordPress DB): Creation was completed already
+0768.749 (3) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0768.750 (3) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0768.750 (3) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0768.751 (3) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-others.zip: others: This file has not yet been successfully uploaded: will queue
+0768.752 (3) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db.gz: db: This file has not yet been successfully uploaded: will queue
+0768.753 (3) Saving backup history. Total backup size: 29.5 MB
+0768.755 (3) Requesting upload of the files that have not yet been successfully uploaded (5)
+0768.757 (3) Cloud backup selection (1/1): googledrive (last)
+0768.760 (3) Beginning dispatch of backup to remote (googledrive)
+0768.761 (3) Google Drive: this account is not authorised
+0768.762 (3) An error condition has occurred for the first time during this job
+0768.763 (3) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0768.764 (3) Number of backup sets in history: 2; groups (db): 1
+0768.765 (3) Examining (for databases) backup set with group_id=0, nonce=60b820025980, datestamp=1474548240 (Sep 22 2016 12:44:00)
+0768.766 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+0768.767 (3) Examining (for databases) backup set with group_id=0, nonce=fe707abf79a3, datestamp=1474547934 (Sep 22 2016 12:38:54)
+0768.767 (3) This backup set is the backup set just made, so will not be deleted.
+0768.768 (3) Number of backup sets in history: 2; groups (files): 1
+0768.769 (3) Examining (for files) backup set with nonce=60b820025980, datestamp=1474548240 (Sep 22 2016 12:44:00)
+0768.769 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+0768.770 (3) Examining (for files) backup set with nonce=fe707abf79a3, datestamp=1474547934 (Sep 22 2016 12:38:54)
+0768.771 (3) This backup set is the backup set just made, so will not be deleted.
+0768.772 (3) This backup set is the backup set just made, so will not be deleted.
+0768.772 (3) This backup set is the backup set just made, so will not be deleted.
+0768.772 (3) This backup set is the backup set just made, so will not be deleted.
+0768.772 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+0768.773 (3) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0768.775 (3) Resume backup (fe707abf79a3, 3): finish run
+0768.776 (3) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0768.778 (3) The backup has not finished; a resumption is scheduled
+1103.827 (4) Opened log file at time: Thu, 22 Sep 2016 12:57:18 +0000 on http://travelo.tips/wp/
+1103.829 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.12.21.0 WP: 4.6.1 PHP: 5.6.25 (litespeed, Linux skm131.hostsila.org 3.10.0-427.18.2.lve1.4.13.el7.x86_64 #1 SMP Wed Jul 6 17:36:11 EDT 2016 x86_64) MySQL: 5.5.5 WPLANG: ru_RU Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 128M (used: 39.4M | 40.3M) multisite: Y openssl: OpenSSL 1.0.2h-fips  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+1103.829 (4) Free space on disk containing Updraft's temporary directory: 517876.4 MB
+1103.835 (4) Backup run: resumption=4, nonce=fe707abf79a3, begun at=1474547934 (1104s ago), job type=backup
+1103.836 (4) Scheduling a resumption (5) after 300 seconds (1474549338) in case this run gets aborted
+1103.845 (4) Checking if we have a zip executable available
+1103.846 (4) Creation of backups of directories: already finished
+1103.847 (4) Saving backup status to database (elements: 8)
+1103.849 (4) Database dump (WordPress DB): Creation was completed already
+1103.854 (4) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1103.855 (4) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1103.856 (4) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1103.856 (4) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-others.zip: others: This file has not yet been successfully uploaded: will queue
+1103.857 (4) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db.gz: db: This file has not yet been successfully uploaded: will queue
+1103.858 (4) Saving backup history. Total backup size: 29.5 MB
+1103.861 (4) Requesting upload of the files that have not yet been successfully uploaded (5)
+1103.862 (4) Cloud backup selection (1/1): googledrive (last)
+1103.865 (4) Beginning dispatch of backup to remote (googledrive)
+1103.866 (4) Google Drive: this account is not authorised
+1103.867 (4) An error condition has occurred for the first time during this job
+1103.869 (4) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1103.871 (4) Number of backup sets in history: 2; groups (db): 1
+1103.872 (4) Examining (for databases) backup set with group_id=0, nonce=60b820025980, datestamp=1474548240 (Sep 22 2016 12:44:00)
+1103.873 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1103.874 (4) Examining (for databases) backup set with group_id=0, nonce=fe707abf79a3, datestamp=1474547934 (Sep 22 2016 12:38:54)
+1103.874 (4) This backup set is the backup set just made, so will not be deleted.
+1103.875 (4) Number of backup sets in history: 2; groups (files): 1
+1103.876 (4) Examining (for files) backup set with nonce=60b820025980, datestamp=1474548240 (Sep 22 2016 12:44:00)
+1103.877 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1103.877 (4) Examining (for files) backup set with nonce=fe707abf79a3, datestamp=1474547934 (Sep 22 2016 12:38:54)
+1103.878 (4) This backup set is the backup set just made, so will not be deleted.
+1103.879 (4) This backup set is the backup set just made, so will not be deleted.
+1103.879 (4) This backup set is the backup set just made, so will not be deleted.
+1103.879 (4) This backup set is the backup set just made, so will not be deleted.
+1103.880 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1103.880 (4) Retain: saving new backup history (sets now: 2) and finishing retain operation
+1103.882 (4) Resume backup (fe707abf79a3, 4): finish run
+1103.884 (4) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1103.886 (4) The backup has not finished; a resumption is scheduled
+1406.185 (5) Opened log file at time: Thu, 22 Sep 2016 13:02:20 +0000 on http://travelo.tips/wp/
+1406.187 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.12.21.0 WP: 4.6.1 PHP: 5.6.25 (litespeed, Linux skm131.hostsila.org 3.10.0-427.18.2.lve1.4.13.el7.x86_64 #1 SMP Wed Jul 6 17:36:11 EDT 2016 x86_64) MySQL: 5.5.5 WPLANG: ru_RU Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 128M (used: 31.4M | 32.3M) multisite: Y openssl: OpenSSL 1.0.2h-fips  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+1406.188 (5) Free space on disk containing Updraft's temporary directory: 517299.3 MB
+1406.192 (5) Backup run: resumption=5, nonce=fe707abf79a3, begun at=1474547934 (1406s ago), job type=backup
+1406.195 (5) Scheduling a resumption (6) after 300 seconds (1474549640) in case this run gets aborted
+1406.211 (5) Checking if we have a zip executable available
+1406.213 (5) Creation of backups of directories: already finished
+1406.215 (5) Saving backup status to database (elements: 8)
+1406.218 (5) Database dump (WordPress DB): Creation was completed already
+1406.225 (5) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1406.226 (5) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1406.227 (5) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1406.229 (5) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-others.zip: others: This file has not yet been successfully uploaded: will queue
+1406.230 (5) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db.gz: db: This file has not yet been successfully uploaded: will queue
+1406.231 (5) Saving backup history. Total backup size: 29.5 MB
+1406.234 (5) Requesting upload of the files that have not yet been successfully uploaded (5)
+1406.236 (5) Cloud backup selection (1/1): googledrive (last)
+1406.240 (5) Beginning dispatch of backup to remote (googledrive)
+1406.241 (5) Google Drive: this account is not authorised
+1406.242 (5) An error condition has occurred for the first time during this job
+1406.245 (5) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1406.246 (5) Number of backup sets in history: 2; groups (db): 1
+1406.247 (5) Examining (for databases) backup set with group_id=0, nonce=60b820025980, datestamp=1474548240 (Sep 22 2016 12:44:00)
+1406.248 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+1406.249 (5) Examining (for databases) backup set with group_id=0, nonce=fe707abf79a3, datestamp=1474547934 (Sep 22 2016 12:38:54)
+1406.250 (5) This backup set is the backup set just made, so will not be deleted.
+1406.251 (5) Number of backup sets in history: 2; groups (files): 1
+1406.252 (5) Examining (for files) backup set with nonce=60b820025980, datestamp=1474548240 (Sep 22 2016 12:44:00)
+1406.253 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+1406.255 (5) Examining (for files) backup set with nonce=fe707abf79a3, datestamp=1474547934 (Sep 22 2016 12:38:54)
+1406.256 (5) This backup set is the backup set just made, so will not be deleted.
+1406.257 (5) This backup set is the backup set just made, so will not be deleted.
+1406.257 (5) This backup set is the backup set just made, so will not be deleted.
+1406.257 (5) This backup set is the backup set just made, so will not be deleted.
+1406.258 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+1406.258 (5) Retain: saving new backup history (sets now: 2) and finishing retain operation
+1406.261 (5) Resume backup (fe707abf79a3, 5): finish run
+1406.263 (5) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1406.265 (5) The backup has not finished; a resumption is scheduled
+1707.456 (6) Opened log file at time: Thu, 22 Sep 2016 13:07:21 +0000 on http://travelo.tips/wp/
+1707.458 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.12.21.0 WP: 4.6.1 PHP: 5.6.25 (litespeed, Linux skm131.hostsila.org 3.10.0-427.18.2.lve1.4.13.el7.x86_64 #1 SMP Wed Jul 6 17:36:11 EDT 2016 x86_64) MySQL: 5.5.5 WPLANG: ru_RU Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 128M (used: 31.4M | 32.3M) multisite: Y openssl: OpenSSL 1.0.2h-fips  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+1707.459 (6) Free space on disk containing Updraft's temporary directory: 517286.6 MB
+1707.464 (6) Backup run: resumption=6, nonce=fe707abf79a3, begun at=1474547934 (1707s ago), job type=backup
+1707.467 (6) Scheduling a resumption (7) after 300 seconds (1474549941) in case this run gets aborted
+1707.478 (6) Checking if we have a zip executable available
+1707.479 (6) Creation of backups of directories: already finished
+1707.480 (6) Saving backup status to database (elements: 8)
+1707.483 (6) Database dump (WordPress DB): Creation was completed already
+1707.489 (6) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1707.490 (6) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1707.490 (6) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1707.491 (6) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-others.zip: others: This file has not yet been successfully uploaded: will queue
+1707.492 (6) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db.gz: db: This file has not yet been successfully uploaded: will queue
+1707.493 (6) Saving backup history. Total backup size: 29.5 MB
+1707.497 (6) Requesting upload of the files that have not yet been successfully uploaded (5)
+1707.499 (6) Cloud backup selection (1/1): googledrive (last)
+1707.502 (6) Beginning dispatch of backup to remote (googledrive)
+1707.503 (6) Google Drive: this account is not authorised
+1707.504 (6) An error condition has occurred for the first time during this job
+1707.506 (6) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1707.507 (6) Number of backup sets in history: 2; groups (db): 1
+1707.508 (6) Examining (for databases) backup set with group_id=0, nonce=60b820025980, datestamp=1474548240 (Sep 22 2016 12:44:00)
+1707.509 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+1707.510 (6) Examining (for databases) backup set with group_id=0, nonce=fe707abf79a3, datestamp=1474547934 (Sep 22 2016 12:38:54)
+1707.510 (6) This backup set is the backup set just made, so will not be deleted.
+1707.511 (6) Number of backup sets in history: 2; groups (files): 1
+1707.512 (6) Examining (for files) backup set with nonce=60b820025980, datestamp=1474548240 (Sep 22 2016 12:44:00)
+1707.513 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+1707.514 (6) Examining (for files) backup set with nonce=fe707abf79a3, datestamp=1474547934 (Sep 22 2016 12:38:54)
+1707.514 (6) This backup set is the backup set just made, so will not be deleted.
+1707.515 (6) This backup set is the backup set just made, so will not be deleted.
+1707.515 (6) This backup set is the backup set just made, so will not be deleted.
+1707.516 (6) This backup set is the backup set just made, so will not be deleted.
+1707.516 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+1707.517 (6) Retain: saving new backup history (sets now: 2) and finishing retain operation
+1707.519 (6) Resume backup (fe707abf79a3, 6): finish run
+1707.520 (6) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1707.522 (6) The backup has not finished; a resumption is scheduled
+2012.451 (7) Opened log file at time: Thu, 22 Sep 2016 13:12:26 +0000 on http://travelo.tips/wp/
+2012.452 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.12.21.0 WP: 4.6.1 PHP: 5.6.25 (litespeed, Linux skm131.hostsila.org 3.10.0-427.18.2.lve1.4.13.el7.x86_64 #1 SMP Wed Jul 6 17:36:11 EDT 2016 x86_64) MySQL: 5.5.5 WPLANG: ru_RU Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 128M (used: 31.4M | 32.3M) multisite: Y openssl: OpenSSL 1.0.2h-fips  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+2012.453 (7) Free space on disk containing Updraft's temporary directory: 520213 MB
+2012.457 (7) Backup run: resumption=7, nonce=fe707abf79a3, begun at=1474547934 (2012s ago), job type=backup
+2012.458 (7) Scheduling a resumption (8) after 300 seconds (1474550246) in case this run gets aborted
+2012.466 (7) Checking if we have a zip executable available
+2012.467 (7) Creation of backups of directories: already finished
+2012.468 (7) Saving backup status to database (elements: 8)
+2012.470 (7) Database dump (WordPress DB): Creation was completed already
+2012.474 (7) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2012.475 (7) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2012.476 (7) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2012.476 (7) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-others.zip: others: This file has not yet been successfully uploaded: will queue
+2012.477 (7) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db.gz: db: This file has not yet been successfully uploaded: will queue
+2012.478 (7) Saving backup history. Total backup size: 29.5 MB
+2012.480 (7) Requesting upload of the files that have not yet been successfully uploaded (5)
+2012.482 (7) Cloud backup selection (1/1): googledrive (last)
+2012.484 (7) Beginning dispatch of backup to remote (googledrive)
+2012.485 (7) Google Drive: this account is not authorised
+2012.486 (7) An error condition has occurred for the first time during this job
+2012.487 (7) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2012.488 (7) Number of backup sets in history: 2; groups (db): 1
+2012.489 (7) Examining (for databases) backup set with group_id=0, nonce=60b820025980, datestamp=1474548240 (Sep 22 2016 12:44:00)
+2012.490 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+2012.490 (7) Examining (for databases) backup set with group_id=0, nonce=fe707abf79a3, datestamp=1474547934 (Sep 22 2016 12:38:54)
+2012.491 (7) This backup set is the backup set just made, so will not be deleted.
+2012.492 (7) Number of backup sets in history: 2; groups (files): 1
+2012.492 (7) Examining (for files) backup set with nonce=60b820025980, datestamp=1474548240 (Sep 22 2016 12:44:00)
+2012.493 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+2012.494 (7) Examining (for files) backup set with nonce=fe707abf79a3, datestamp=1474547934 (Sep 22 2016 12:38:54)
+2012.495 (7) This backup set is the backup set just made, so will not be deleted.
+2012.495 (7) This backup set is the backup set just made, so will not be deleted.
+2012.496 (7) This backup set is the backup set just made, so will not be deleted.
+2012.496 (7) This backup set is the backup set just made, so will not be deleted.
+2012.496 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+2012.496 (7) Retain: saving new backup history (sets now: 2) and finishing retain operation
+2012.498 (7) Resume backup (fe707abf79a3, 7): finish run
+2012.500 (7) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2012.501 (7) The backup has not finished; a resumption is scheduled
+2316.178 (8) Opened log file at time: Thu, 22 Sep 2016 13:17:30 +0000 on http://travelo.tips/wp/
+2316.180 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.12.21.0 WP: 4.6.1 PHP: 5.6.25 (litespeed, Linux skm131.hostsila.org 3.10.0-427.18.2.lve1.4.13.el7.x86_64 #1 SMP Wed Jul 6 17:36:11 EDT 2016 x86_64) MySQL: 5.5.5 WPLANG: ru_RU Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 128M (used: 31.4M | 32.3M) multisite: Y openssl: OpenSSL 1.0.2h-fips  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+2316.181 (8) Free space on disk containing Updraft's temporary directory: 520208.4 MB
+2316.184 (8) Backup run: resumption=8, nonce=fe707abf79a3, begun at=1474547934 (2316s ago), job type=backup
+2316.187 (8) Scheduling a resumption (9) after 300 seconds (1474550550) in case this run gets aborted
+2316.202 (8) Checking if we have a zip executable available
+2316.204 (8) Creation of backups of directories: already finished
+2316.205 (8) Saving backup status to database (elements: 8)
+2316.209 (8) Database dump (WordPress DB): Creation was completed already
+2316.216 (8) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2316.217 (8) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2316.218 (8) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2316.219 (8) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-others.zip: others: This file has not yet been successfully uploaded: will queue
+2316.221 (8) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db.gz: db: This file has not yet been successfully uploaded: will queue
+2316.222 (8) Saving backup history. Total backup size: 29.5 MB
+2316.225 (8) Requesting upload of the files that have not yet been successfully uploaded (5)
+2316.227 (8) Cloud backup selection (1/1): googledrive (last)
+2316.231 (8) Beginning dispatch of backup to remote (googledrive)
+2316.233 (8) Google Drive: this account is not authorised
+2316.234 (8) An error condition has occurred for the first time during this job
+2316.236 (8) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2316.238 (8) Number of backup sets in history: 2; groups (db): 1
+2316.239 (8) Examining (for databases) backup set with group_id=0, nonce=60b820025980, datestamp=1474548240 (Sep 22 2016 12:44:00)
+2316.240 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+2316.241 (8) Examining (for databases) backup set with group_id=0, nonce=fe707abf79a3, datestamp=1474547934 (Sep 22 2016 12:38:54)
+2316.242 (8) This backup set is the backup set just made, so will not be deleted.
+2316.243 (8) Number of backup sets in history: 2; groups (files): 1
+2316.244 (8) Examining (for files) backup set with nonce=60b820025980, datestamp=1474548240 (Sep 22 2016 12:44:00)
+2316.245 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+2316.245 (8) Examining (for files) backup set with nonce=fe707abf79a3, datestamp=1474547934 (Sep 22 2016 12:38:54)
+2316.246 (8) This backup set is the backup set just made, so will not be deleted.
+2316.247 (8) This backup set is the backup set just made, so will not be deleted.
+2316.248 (8) This backup set is the backup set just made, so will not be deleted.
+2316.248 (8) This backup set is the backup set just made, so will not be deleted.
+2316.248 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+2316.249 (8) Retain: saving new backup history (sets now: 2) and finishing retain operation
+2316.251 (8) Resume backup (fe707abf79a3, 8): finish run
+2316.253 (8) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2316.255 (8) The backup has not finished; a resumption is scheduled
+2619.896 (9) Opened log file at time: Thu, 22 Sep 2016 13:22:34 +0000 on http://travelo.tips/wp/
+2619.898 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.12.21.0 WP: 4.6.1 PHP: 5.6.25 (litespeed, Linux skm131.hostsila.org 3.10.0-427.18.2.lve1.4.13.el7.x86_64 #1 SMP Wed Jul 6 17:36:11 EDT 2016 x86_64) MySQL: 5.5.5 WPLANG: ru_RU Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 128M (used: 31.4M | 32.3M) multisite: Y openssl: OpenSSL 1.0.2h-fips  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+2619.899 (9) Free space on disk containing Updraft's temporary directory: 520196.9 MB
+2619.902 (9) Backup run: resumption=9, nonce=fe707abf79a3, begun at=1474547934 (2620s ago), job type=backup
+2619.904 (9) The current run is resumption number 9, and there was nothing useful done on the last run (last useful run: 0) - will not schedule a further attempt until we see something useful happening this time
+2619.914 (9) Creation of backups of directories: already finished
+2619.915 (9) Saving backup status to database (elements: 8)
+2619.917 (9) Database dump (WordPress DB): Creation was completed already
+2619.923 (9) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2619.924 (9) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2619.924 (9) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2619.925 (9) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-others.zip: others: This file has not yet been successfully uploaded: will queue
+2619.926 (9) backup_2016-09-22-1238_Travelo_Tips_fe707abf79a3-db.gz: db: This file has not yet been successfully uploaded: will queue
+2619.927 (9) Saving backup history. Total backup size: 29.5 MB
+2619.929 (9) Requesting upload of the files that have not yet been successfully uploaded (5)
+2619.931 (9) Cloud backup selection (1/1): googledrive (last)
+2619.936 (9) Beginning dispatch of backup to remote (googledrive)
+2619.937 (9) Google Drive: this account is not authorised
+2619.937 (9) An error condition has occurred for the first time during this job
+2619.939 (9) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2619.941 (9) Number of backup sets in history: 2; groups (db): 1
+2619.942 (9) Examining (for databases) backup set with group_id=0, nonce=60b820025980, datestamp=1474548240 (Sep 22 2016 12:44:00)
+2619.942 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+2619.943 (9) Examining (for databases) backup set with group_id=0, nonce=fe707abf79a3, datestamp=1474547934 (Sep 22 2016 12:38:54)
+2619.945 (9) This backup set is the backup set just made, so will not be deleted.
+2619.946 (9) Number of backup sets in history: 2; groups (files): 1
+2619.947 (9) Examining (for files) backup set with nonce=60b820025980, datestamp=1474548240 (Sep 22 2016 12:44:00)
+2619.947 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+2619.949 (9) Examining (for files) backup set with nonce=fe707abf79a3, datestamp=1474547934 (Sep 22 2016 12:38:54)
+2619.950 (9) This backup set is the backup set just made, so will not be deleted.
+2619.951 (9) This backup set is the backup set just made, so will not be deleted.
+2619.951 (9) This backup set is the backup set just made, so will not be deleted.
+2619.951 (9) This backup set is the backup set just made, so will not be deleted.
+2619.952 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+2619.952 (9) Retain: saving new backup history (sets now: 2) and finishing retain operation
+2619.955 (9) Resume backup (fe707abf79a3, 9): finish run
+2619.956 (9) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2619.958 (9) Fetching RSS news feed
+2620.033 (9) Fetched RSS news feed; result is a: SimplePie
+2620.036 (9) Sending email ('Files and database (Full backup)') report (attachments: 1, size: 52.7 KB) to: info@...
+2620.172 (9) The backup attempt has finished, apparently unsuccessfully

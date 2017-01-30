@@ -1,0 +1,263 @@
+0000.204 (0) Opened log file at time: Sun, 04 Dec 2016 23:52:07 +0000 on http://travelo.tips/wp/
+0000.208 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.12.21.0 WP: 4.6.1 PHP: 5.6.25 (litespeed, Linux skm131.hostsila.org 3.10.0-427.18.2.lve1.4.18.el7.x86_64 #1 SMP Mon Sep 19 14:53:12 EDT 2016 x86_64) MySQL: 5.5.5 WPLANG: ru_RU Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 128M (used: 31.4M | 32.3M) multisite: Y openssl: OpenSSL 1.0.2h-fips  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.209 (0) Free space on disk containing Updraft's temporary directory: 78417 MB
+0000.211 (0) Tasks: Backup files: 1 (schedule: every4hours) Backup DB:  (schedule: every4hours)
+0000.212 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.218 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1480266551, seconds_ago=628976)
+0000.228 (0) Set semaphore last lock (fd) time to 2016-12-04 23:52:07
+0000.229 (0) Semaphore lock (fd) complete
+0000.268 (0) Backup run: resumption=0, nonce=68da4b5c77c5, begun at=1480895526 (1s ago), job type=backup
+0000.270 (0) Scheduling a resumption (1) after 300 seconds (1480895827) in case this run gets aborted
+0000.285 (0) Checking if we have a zip executable available
+0000.287 (0) Creation of backups of directories: beginning
+0000.320 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.483 (0) Total entities for the zip file: 203 directories, 1285 files (0 skipped as non-modified), 14.2 MB
+0001.496 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.503 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.520 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.529 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.561 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.563 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2 MB, 1285 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0004.898 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-plugins.zip.tmp: 600 files added (on-disk size: 778.6 KB)
+0004.949 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-plugins.zip.tmp: 700 files added (on-disk size: 778.6 KB)
+0004.961 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-plugins.zip.tmp: 800 files added (on-disk size: 778.6 KB)
+0004.973 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-plugins.zip.tmp: 900 files added (on-disk size: 778.6 KB)
+0004.985 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-plugins.zip.tmp: 1000 files added (on-disk size: 778.6 KB)
+0004.986 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.8 MB, 1285 files batched, 501 (1002) added so far); re-opening (prior size: 778.6 KB)
+0006.007 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-plugins.zip.tmp: 1100 files added (on-disk size: 2178.3 KB)
+0006.220 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-plugins.zip.tmp: 1200 files added (on-disk size: 2178.3 KB)
+0007.921 (0) Created plugins zip (0) - 3764.3 KB in 7.6 s (495.8 KB/s) (SHA1 checksum: 087b189d85c2928365a0598e9651862bfd11908c)
+0007.927 (0) Beginning creation of dump of themes (split every: 400 MB)
+0008.003 (0) Total entities for the zip file: 196 directories, 1566 files (0 skipped as non-modified), 31.5 MB
+0008.011 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0008.017 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0008.024 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0008.038 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0008.047 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0008.048 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.3 MB, 1566 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0009.901 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-themes.zip.tmp: 600 files added (on-disk size: 4528.3 KB)
+0010.338 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-themes.zip.tmp: 700 files added (on-disk size: 4528.3 KB)
+0010.350 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-themes.zip.tmp: 800 files added (on-disk size: 4528.3 KB)
+0010.362 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-themes.zip.tmp: 900 files added (on-disk size: 4528.3 KB)
+0010.376 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-themes.zip.tmp: 1000 files added (on-disk size: 4528.3 KB)
+0010.378 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.1 MB, 1566 files batched, 501 (1002) added so far); re-opening (prior size: 4528.3 KB)
+0013.782 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-themes.zip.tmp: 1100 files added (on-disk size: 15350.9 KB)
+0014.646 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-themes.zip.tmp: 1200 files added (on-disk size: 15350.9 KB)
+0014.667 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-themes.zip.tmp: 1300 files added (on-disk size: 15350.9 KB)
+0014.681 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-themes.zip.tmp: 1400 files added (on-disk size: 15350.9 KB)
+0014.696 (0) Zip: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-themes.zip.tmp: 1500 files added (on-disk size: 15350.9 KB)
+0014.698 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8 MB, 1566 files batched, 501 (1503) added so far); re-opening (prior size: 15350.9 KB)
+0021.222 (0) Created themes zip (0) - 21318.2 KB in 13.3 s (1603.9 KB/s) (SHA1 checksum: cf25087c7e836d80e0868059a30bf1582404c5c5)
+0021.226 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0021.226 (0) Looking for candidates to back up in: /home/mjuice/public_html/wp/wp-content/uploads
+0021.228 (0) finding files: themify-css: adding to list (1)
+0021.229 (0) finding files: themify-builder: adding to list (2)
+0021.230 (0) finding files: 2016: adding to list (3)
+0021.231 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0021.269 (0) Total entities for the zip file: 9 directories, 79 files (0 skipped as non-modified), 4.8 MB
+0022.451 (0) Created uploads zip (0) - 4516.1 KB in 1.2 s (3706.2 KB/s) (SHA1 checksum: 968d905868b778f602c7a91bf56a8fdff7e59013)
+0022.457 (0) Beginning backup of other directories found in the content directory (index: 0)
+0022.460 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0022.461 (0) Looking for candidates to back up in: /home/mjuice/public_html/wp/wp-content
+0022.463 (0) finding files: updraft: skipping: this is the updraft directory
+0022.464 (0) finding files: themes: skipping: this is the themes directory
+0022.466 (0) finding files: uploads: skipping: this is the uploads directory
+0022.467 (0) finding files: languages: adding to list (1)
+0022.469 (0) finding files: index.php: adding to list (2)
+0022.470 (0) finding files: plugins: skipping: this is the plugins directory
+0022.471 (0) finding files: upgrade: skipping: excluded by options
+0022.478 (0) Total entities for the zip file: 3 directories, 17 files (0 skipped as non-modified), 1.8 MB
+0023.270 (0) Created others zip (0) - 495 KB in 0.8 s (622 KB/s) (SHA1 checksum: ba6c07b34cb541b08a3f93a1befa3d499aa15458)
+0023.276 (0) Saving backup status to database (elements: 8)
+0023.278 (0) Beginning creation of database dump (WordPress DB)
+0023.291 (0) Table wpcr_options: Total expected rows (approximate): 219
+0023.345 (0) Table wpcr_options: Total rows added: 223 in 0.05 seconds
+0023.346 (0) Table wpcr_options: finishing file (backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_options.table.gz - 174.5 KB)
+0023.363 (0) Table wpcr_site: Total expected rows (approximate): 0
+0023.365 (0) Table wpcr_site: Total rows added: 1 in 0.00 seconds
+0023.367 (0) Table wpcr_site: finishing file (backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_site.table.gz - 0.4 KB)
+0023.372 (0) Table wpcr_blogs: Total expected rows (approximate): 1
+0023.374 (0) Table wpcr_blogs: Total rows added: 1 in 0.00 seconds
+0023.375 (0) Table wpcr_blogs: finishing file (backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_blogs.table.gz - 0.5 KB)
+0023.379 (0) Table wpcr_users: Total expected rows (approximate): 0
+0023.382 (0) Table wpcr_users: Total rows added: 1 in 0.00 seconds
+0023.382 (0) Table wpcr_users: finishing file (backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_users.table.gz - 0.6 KB)
+0023.387 (0) Table wpcr_usermeta: Total expected rows (approximate): 27
+0023.390 (0) Table wpcr_usermeta: Total rows added: 33 in 0.00 seconds
+0023.391 (0) Table wpcr_usermeta: finishing file (backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_usermeta.table.gz - 1.5 KB)
+0023.401 (0) Table wpcr_blog_versions: Total expected rows (approximate): 0
+0023.403 (0) Table wpcr_blog_versions: Total rows added: 0 in 0.00 seconds
+0023.404 (0) Table wpcr_blog_versions: finishing file (backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_blog_versions.table.gz - 0.3 KB)
+0023.415 (0) Table wpcr_commentmeta: Total expected rows (approximate): 0
+0023.417 (0) Table wpcr_commentmeta: Total rows added: 0 in 0.00 seconds
+0023.417 (0) Table wpcr_commentmeta: finishing file (backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_commentmeta.table.gz - 0.4 KB)
+0023.450 (0) Table wpcr_comments: Total expected rows (approximate): 0
+0023.454 (0) Table wpcr_comments: Total rows added: 2 in 0.00 seconds
+0023.455 (0) Table wpcr_comments: finishing file (backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_comments.table.gz - 0.9 KB)
+0023.469 (0) Table wpcr_links: Total expected rows (approximate): 0
+0023.473 (0) Table wpcr_links: Total rows added: 0 in 0.00 seconds
+0023.475 (0) Table wpcr_links: finishing file (backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_links.table.gz - 0.4 KB)
+0023.483 (0) Table wpcr_postmeta: Total expected rows (approximate): 117
+0023.489 (0) Table wpcr_postmeta: Total rows added: 124 in 0.01 seconds
+0023.491 (0) Table wpcr_postmeta: finishing file (backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_postmeta.table.gz - 3.1 KB)
+0023.498 (0) Table wpcr_posts: Total expected rows (approximate): 35
+0023.540 (0) Table wpcr_posts: Total rows added: 37 in 0.04 seconds
+0023.541 (0) Table wpcr_posts: finishing file (backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_posts.table.gz - 34.3 KB)
+0023.554 (0) Table wpcr_registration_log: Total expected rows (approximate): 0
+0023.558 (0) Table wpcr_registration_log: Total rows added: 1 in 0.00 seconds
+0023.559 (0) Table wpcr_registration_log: finishing file (backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_registration_log.table.gz - 0.4 KB)
+0023.569 (0) Table wpcr_signups: Total expected rows (approximate): 0
+0023.572 (0) Table wpcr_signups: Total rows added: 0 in 0.00 seconds
+0023.573 (0) Table wpcr_signups: finishing file (backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_signups.table.gz - 0.5 KB)
+0023.577 (0) Table wpcr_sitemeta: Total expected rows (approximate): 57
+0023.584 (0) Table wpcr_sitemeta: Total rows added: 52 in 0.01 seconds
+0023.585 (0) Table wpcr_sitemeta: finishing file (backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_sitemeta.table.gz - 12.7 KB)
+0023.590 (0) Table wpcr_term_relationships: Total expected rows (approximate): 14
+0023.593 (0) Table wpcr_term_relationships: Total rows added: 15 in 0.00 seconds
+0023.593 (0) Table wpcr_term_relationships: finishing file (backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_term_relationships.table.gz - 0.4 KB)
+0023.598 (0) Table wpcr_term_taxonomy: Total expected rows (approximate): 36
+0023.601 (0) Table wpcr_term_taxonomy: Total rows added: 38 in 0.00 seconds
+0023.602 (0) Table wpcr_term_taxonomy: finishing file (backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_term_taxonomy.table.gz - 1.2 KB)
+0023.612 (0) Table wpcr_termmeta: Total expected rows (approximate): 0
+0023.615 (0) Table wpcr_termmeta: Total rows added: 0 in 0.00 seconds
+0023.616 (0) Table wpcr_termmeta: finishing file (backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_termmeta.table.gz - 0.4 KB)
+0023.622 (0) Table wpcr_terms: Total expected rows (approximate): 38
+0023.625 (0) Table wpcr_terms: Total rows added: 38 in 0.00 seconds
+0023.626 (0) Table wpcr_terms: finishing file (backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_terms.table.gz - 1.1 KB)
+0023.630 (0) Table wpcr_loginizer_logs: Total expected rows (approximate): 0
+0023.632 (0) Table wpcr_loginizer_logs: Total rows added: 0 in 0.00 seconds
+0023.633 (0) Table wpcr_loginizer_logs: finishing file (backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_loginizer_logs.table.gz - 0.3 KB)
+0023.637 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_options.table.gz (1/19): adding to final database dump
+0023.685 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_site.table.gz (2/19): adding to final database dump
+0023.687 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_blogs.table.gz (3/19): adding to final database dump
+0023.688 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_users.table.gz (4/19): adding to final database dump
+0023.689 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_usermeta.table.gz (5/19): adding to final database dump
+0023.691 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_blog_versions.table.gz (6/19): adding to final database dump
+0023.692 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_commentmeta.table.gz (7/19): adding to final database dump
+0023.693 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_comments.table.gz (8/19): adding to final database dump
+0023.694 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_links.table.gz (9/19): adding to final database dump
+0023.695 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_postmeta.table.gz (10/19): adding to final database dump
+0023.698 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_posts.table.gz (11/19): adding to final database dump
+0023.718 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_registration_log.table.gz (12/19): adding to final database dump
+0023.719 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_signups.table.gz (13/19): adding to final database dump
+0023.721 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_sitemeta.table.gz (14/19): adding to final database dump
+0023.725 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_term_relationships.table.gz (15/19): adding to final database dump
+0023.726 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_term_taxonomy.table.gz (16/19): adding to final database dump
+0023.728 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_termmeta.table.gz (17/19): adding to final database dump
+0023.729 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_terms.table.gz (18/19): adding to final database dump
+0023.731 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db-table-wpcr_loginizer_logs.table.gz (19/19): adding to final database dump
+0023.732 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db.gz: finished writing out complete database file (216 KB)
+0023.737 (0) Total database tables backed up: 19 (backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db.gz, size: 235133, checksum (SHA1): 0e89bd314bd2f242b736fe8ed19f984799f4eda1)
+0023.744 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0023.745 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0023.746 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0023.746 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-others.zip: others: This file has not yet been successfully uploaded: will queue
+0023.747 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db.gz: db: This file has not yet been successfully uploaded: will queue
+0023.748 (0) Saving backup history. Total backup size: 29.6 MB
+0023.751 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0023.754 (0) Cloud backup selection (1/1): googledrive (last)
+0023.755 (0) Beginning dispatch of backup to remote (googledrive)
+0023.759 (0) Google Drive: requesting access token: client_id=371043283962-klh661bqpgm40m359oj3g2p5fa0r2nl7.apps.googleusercontent.com
+0024.073 (0) Google Drive: successfully obtained access token
+0032.742 (0) Google Drive quota usage: used=88.8 MB, total=10485848.8 MB, available=10485760 MB
+0032.745 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-plugins.zip: Attempting to upload to Google Drive (into folder id: 0ByrFeBHx_0bYQ1U5YnF2RDk0bVk)
+0033.418 (0) Googledrive chunked upload: 27.2 % uploaded (1048576)
+0033.800 (0) Googledrive chunked upload: 54.4 % uploaded (2097152)
+0034.168 (0) Googledrive chunked upload: 81.6 % uploaded (3145728)
+0037.284 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0037.290 (0) OK: Archive backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-plugins.zip uploaded to Google Drive in 4.54 seconds
+0037.294 (0) Recording as successfully uploaded: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-plugins.zip (35eb04fd0e328ad68c9ce80f1cabde3b)
+0037.303 (0) Deleting local file: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-plugins.zip: OK
+0037.665 (0) Google Drive quota usage: used=92.5 MB, total=10485852.5 MB, available=10485760 MB
+0037.667 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-themes.zip: Attempting to upload to Google Drive (into folder id: 0ByrFeBHx_0bYQ1U5YnF2RDk0bVk)
+0038.234 (0) Googledrive chunked upload: 4.8 % uploaded (1048576)
+0038.597 (0) Googledrive chunked upload: 9.6 % uploaded (2097152)
+0046.771 (0) Googledrive chunked upload: 14.4 % uploaded (3145728)
+0047.195 (0) Googledrive chunked upload: 19.2 % uploaded (4194304)
+0047.648 (0) Googledrive chunked upload: 24 % uploaded (5242880)
+0050.294 (0) Googledrive chunked upload: 28.8 % uploaded (6291456)
+0050.699 (0) Googledrive chunked upload: 33.6 % uploaded (7340032)
+0051.236 (0) Googledrive chunked upload: 38.4 % uploaded (8388608)
+0051.676 (0) Googledrive chunked upload: 43.2 % uploaded (9437184)
+0052.076 (0) Googledrive chunked upload: 48 % uploaded (10485760)
+0052.460 (0) Googledrive chunked upload: 52.8 % uploaded (11534336)
+0052.881 (0) Googledrive chunked upload: 57.6 % uploaded (12582912)
+0053.246 (0) Googledrive chunked upload: 62.4 % uploaded (13631488)
+0053.626 (0) Googledrive chunked upload: 67.2 % uploaded (14680064)
+0054.044 (0) Googledrive chunked upload: 72.1 % uploaded (15728640)
+0054.439 (0) Googledrive chunked upload: 76.9 % uploaded (16777216)
+0054.847 (0) Googledrive chunked upload: 81.7 % uploaded (17825792)
+0056.681 (0) Googledrive chunked upload: 86.5 % uploaded (18874368)
+0057.120 (0) Googledrive chunked upload: 91.3 % uploaded (19922944)
+0062.272 (0) Googledrive chunked upload: 96.1 % uploaded (20971520)
+0063.438 (0) Googledrive chunked upload: 100 % uploaded (20971520)
+0063.443 (0) OK: Archive backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-themes.zip uploaded to Google Drive in 25.77 seconds
+0063.445 (0) Recording as successfully uploaded: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-themes.zip (0f7bacd095ab124dbf1fe5b3c5bcae7d)
+0063.456 (0) Deleting local file: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-themes.zip: OK
+0063.825 (0) Google Drive quota usage: used=113.3 MB, total=10485873.3 MB, available=10485760 MB
+0063.828 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-uploads.zip: Attempting to upload to Google Drive (into folder id: 0ByrFeBHx_0bYQ1U5YnF2RDk0bVk)
+0064.557 (0) Googledrive chunked upload: 22.7 % uploaded (1048576)
+0065.163 (0) Googledrive chunked upload: 45.3 % uploaded (2097152)
+0065.597 (0) Googledrive chunked upload: 68 % uploaded (3145728)
+0066.994 (0) Googledrive chunked upload: 90.7 % uploaded (4194304)
+0067.851 (0) Googledrive chunked upload: 100 % uploaded (4194304)
+0067.856 (0) OK: Archive backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-uploads.zip uploaded to Google Drive in 4.03 seconds
+0067.859 (0) Recording as successfully uploaded: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-uploads.zip (58e31a35176f6945f5bf9b734e6d52b7)
+0067.866 (0) Deleting local file: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-uploads.zip: OK
+0068.225 (0) Google Drive quota usage: used=117.7 MB, total=10485877.7 MB, available=10485760 MB
+0068.228 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-others.zip: Attempting to upload to Google Drive (into folder id: 0ByrFeBHx_0bYQ1U5YnF2RDk0bVk)
+0069.398 (0) Googledrive chunked upload: 100 % uploaded
+0069.403 (0) OK: Archive backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-others.zip uploaded to Google Drive in 1.17 seconds
+0069.407 (0) Recording as successfully uploaded: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-others.zip (c22c7f81f7eafbb08b18d23565ab0984)
+0069.412 (0) Deleting local file: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-others.zip: OK
+0069.782 (0) Google Drive quota usage: used=118.2 MB, total=10485878.2 MB, available=10485760 MB
+0069.784 (0) backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db.gz: Attempting to upload to Google Drive (into folder id: 0ByrFeBHx_0bYQ1U5YnF2RDk0bVk)
+0070.866 (0) Googledrive chunked upload: 100 % uploaded
+0070.871 (0) OK: Archive backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db.gz uploaded to Google Drive in 1.09 seconds
+0070.877 (0) Recording as successfully uploaded: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db.gz (a68edd3a24818337bd2910b8ba740e4b)
+0070.882 (0) Deleting local file: backup_2016-12-04-2352_Travelo_Tips_68da4b5c77c5-db.gz: OK
+0070.885 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0070.888 (0) Number of backup sets in history: 3; groups (db): 1
+0070.889 (0) Examining (for databases) backup set with group_id=0, nonce=68da4b5c77c5, datestamp=1480895526 (Dec 04 2016 23:52:06)
+0070.890 (0) This backup set is the backup set just made, so will not be deleted.
+0070.891 (0) Examining (for databases) backup set with group_id=0, nonce=b14106391dab, datestamp=1480266551 (Nov 27 2016 17:09:11)
+0070.893 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0070.895 (0) Examining (for databases) backup set with group_id=0, nonce=0b31bfb9db2c, datestamp=1479930450 (Nov 23 2016 19:47:30)
+0070.896 (0) 1479930450: db: this set includes a database (backup_2016-11-23-1947_Travelo_Tips_0b31bfb9db2c-db.gz); db count is now 2
+0070.898 (0) 1479930450: db: over retain limit (2); will delete this database
+0070.900 (0) Delete file: backup_2016-11-23-1947_Travelo_Tips_0b31bfb9db2c-db.gz, service=googledrive
+0071.845 (0) backup_2016-11-23-1947_Travelo_Tips_0b31bfb9db2c-db.gz: Deletion successful
+0071.849 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0071.850 (0) Number of backup sets in history: 3; groups (files): 1
+0071.851 (0) Examining (for files) backup set with nonce=68da4b5c77c5, datestamp=1480895526 (Dec 04 2016 23:52:06)
+0071.851 (0) This backup set is the backup set just made, so will not be deleted.
+0071.852 (0) This backup set is the backup set just made, so will not be deleted.
+0071.852 (0) This backup set is the backup set just made, so will not be deleted.
+0071.853 (0) This backup set is the backup set just made, so will not be deleted.
+0071.853 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0071.853 (0) Examining (for files) backup set with nonce=b14106391dab, datestamp=1480266551 (Nov 27 2016 17:09:11)
+0071.854 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0071.855 (0) Examining (for files) backup set with nonce=0b31bfb9db2c, datestamp=1479930450 (Nov 23 2016 19:47:30)
+0071.856 (0) plugins: over retain limit (2); will delete this file entity
+0071.860 (0) themes: over retain limit (2); will delete this file entity
+0071.862 (0) uploads: over retain limit (2); will delete this file entity
+0071.863 (0) others: over retain limit (2); will delete this file entity
+0071.863 (0) Delete file: backup_2016-11-23-1947_Travelo_Tips_0b31bfb9db2c-plugins.zip, service=googledrive
+0071.864 (0) Delete file: backup_2016-11-23-1947_Travelo_Tips_0b31bfb9db2c-themes.zip, service=googledrive
+0071.865 (0) Delete file: backup_2016-11-23-1947_Travelo_Tips_0b31bfb9db2c-uploads.zip, service=googledrive
+0071.866 (0) Delete file: backup_2016-11-23-1947_Travelo_Tips_0b31bfb9db2c-others.zip, service=googledrive
+0072.959 (0) backup_2016-11-23-1947_Travelo_Tips_0b31bfb9db2c-others.zip: Deletion successful
+0073.425 (0) backup_2016-11-23-1947_Travelo_Tips_0b31bfb9db2c-uploads.zip: Deletion successful
+0073.866 (0) backup_2016-11-23-1947_Travelo_Tips_0b31bfb9db2c-themes.zip: Deletion successful
+0074.377 (0) backup_2016-11-23-1947_Travelo_Tips_0b31bfb9db2c-plugins.zip: Deletion successful
+0074.381 (0) This backup set is now empty; will remove from history
+0074.382 (0) Deleting log file (log.0b31bfb9db2c.txt)
+0074.386 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0074.419 (0) Resume backup (68da4b5c77c5, 0): finish run
+0074.422 (0) Decremented the semaphore (fd) by 1
+0074.424 (0) Semaphore (fd) unlocked
+0074.426 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0074.433 (0) Fetching RSS news feed
+0074.574 (0) Fetched RSS news feed; result is a: SimplePie
+0074.617 (0) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 KB) to: info@...
+0074.869 (0) The backup apparently succeeded and is now complete
